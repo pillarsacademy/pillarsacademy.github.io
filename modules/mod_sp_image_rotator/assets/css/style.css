@@ -1,0 +1,13 @@
+/**
+* @title		SP Image rotator module
+* @version		2.0.0
+* @website		http://www.joomshaper.com
+* @copyright	Copyright (C) 2010 JoomShaper.com. All rights reserved.
+* @license		http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+*/
+.sp-imr-wrapper{position:relative;overflow:hidden;}
+.sp-imr-items {position:absolute;}
+.sp-imr-items .sp-imr-item{display:block;float:left;padding:0;margin:0;}
+.sp-imr-prev, .sp-imr-next{width: 33px; height: 50px; margin-top:-25px;position: absolute; top:92%; z-index: 20;cursor:pointer; }
+.sp-imr-prev {left:0;background: url(../images/prev.png) no-repeat 0 50%}
+.sp-imr-next {right:0;background: url(../images/next.png) no-repeat 0 50%}

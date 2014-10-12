@@ -1,0 +1,9 @@
+
+try {$Gavick;}catch(e){$Gavick = {};};
+
+$Gavick["gk_news_highlighternews-highlight-1"] = {
+		"animationType" : 1,
+		"animationSpeed" : 250,
+		"animationInterval" : 6000,
+		"animationFun" : Fx.Transitions.linear,
+		"mouseover" : 1};
