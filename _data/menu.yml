@@ -1,0 +1,73 @@
+- about:
+  - heading: "About"
+    banner:
+    href:
+  - mission: "Mission & Vision"
+    directors-welcome: "Director's Welcome"
+    board-of-trustees: "Board of Trustees"
+    faqs: "FAQs"
+    testimonials: "Testimonials"
+    directions: "Directions"
+
+- learning:
+  - heading: "Learning"
+    banner:
+    href:
+  - toddlers: "Toddler Program"
+    preschool: "Preschool"
+    elementary: "Elementary K-6"
+    religious-studies: "Religious Studies"
+    leadership: "Leadership Program"
+
+- admission:
+  - heading: "Admission"
+    banner:
+    href:
+  - enrollment: "Enrollment Process"
+    applications: "Applications"
+    tuition: "Tuition & Fees"
+    aid: "Financial Aid"
+    uniform: "Uniform"
+
+- students:
+  - heading: "Student Info"
+    banner:
+    href:
+  - after-school: "After School Activities"
+    themes-values: "Global Perspective Themes & Islamic Values"
+    resources: "Resources"
+    parent-handbook: "Parent Handbook"
+
+- news:
+  - heading: "News"
+    banner:
+    href:
+  - upcoming-events: "Upcoming Events"
+    newsletter: "Newsletter"
+    ptc: "PTC Corner"
+    press: "Press Releases"
+    photos: "Photos"
+
+- give:
+  - heading: "Give"
+    banner:
+    href:
+  - ways-to-give: "Ways to Give"
+    sponsorship: "Sponsorship Packages"
+    give: "Give"
+
+- charter-for-compassion:
+  - heading: "Charter for Compassion"
+    banner:
+    href:
+  - partner: "Partner with the Charter of Compassion"
+    games-week: "Compassion Games Week"
+    partners-in-compassion: "Partners in Compassion"
+
+- weekend-school:
+  - heading: "Weekend School"
+    banner:
+    href:
+  - about: "About"
+    fees: "Fees"
+    registration: "Registration"
