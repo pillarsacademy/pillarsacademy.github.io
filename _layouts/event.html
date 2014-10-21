@@ -1,0 +1,20 @@
+---
+layout: default
+category: Events
+---
+
+<p class="meta">Date: {{ page.date | date: "%B %d, %Y" }}</p>
+
+{% if page.start and page.end %}
+<p class="meta">Time:
+{% include display_time.html param=page.start %} -
+{% include display_time.html param=page.end %}
+</p>
+{% endif %}
+
+<p class="meta">Venue: {{ page.venue }}</p>
+<p class="meta">Address: {{ page.address }}</p>
+
+<div class="post">
+{{ content }}
+</div>

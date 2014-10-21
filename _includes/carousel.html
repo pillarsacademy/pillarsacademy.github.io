@@ -1,0 +1,37 @@
+<!-- Carousel
+================================================== -->
+<div id="this-carousel-id" class="carousel slide" data-ride="carousel"><!-- class of slide for animation -->
+  <!-- Indicators -->
+
+  {% if site.data.carousels.size > 1 %}
+    <ol class="carousel-indicators">
+      {% for carousel in site.data.carousels %}
+        <li data-target="#this-carousel-id" 
+            {% if forloop.first %} class="active" {% endif %}
+            data-slide-to="{{ forloop.index0 }}"></li>
+      {% endfor %}
+    </ol>
+  {% endif %}
+
+  <div class="carousel-inner">
+    {% for carousel in site.data.carousels %}
+    <div class="item{% if forloop.first %} active{% endif %}">
+      <a href="{{carousel.href}}">
+         <img src="{{carousel.image}}" alt="" />
+      </a>
+    </div>
+    {% endfor %}
+  </div><!-- /.carousel-inner -->
+
+  <!-- Controls -->
+  {% if site.data.carousels.size > 1 %}
+    <a class="left carousel-control" href="#this-carousel-id" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" href="#this-carousel-id" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+  {% endif %}
+
+</div>
+<!-- /.carousel -->
