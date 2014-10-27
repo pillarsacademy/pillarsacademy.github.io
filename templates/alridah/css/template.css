@@ -4,6 +4,11 @@ html, body, form, fieldset {
 	padding: 0;
 }
 
+h1 {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
 body {
 	background: url(../images/bg_bottom.jpg) scroll repeat-x bottom left #E9E9E9;
 	color: #000000;
