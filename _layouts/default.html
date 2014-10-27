@@ -90,19 +90,14 @@
           
 <div class="gk_news_highlighter" id="news-highlight-1">
   <div class="gk_news_highlighter_wrapper">
-                                    <div class="gk_news_highlighter_item"><span class="gk_news_highlighter_title">"When we joined Pillars Academy, we felt at home from the first day"</span></div>
-                                        <div class="gk_news_highlighter_item"><span class="gk_news_highlighter_title">"Our daughter has discovered pride in her Muslim identity"</span></div>
-                                        <div class="gk_news_highlighter_item"><span class="gk_news_highlighter_title">"My children love to go to school"</span></div>
-                                        <div class="gk_news_highlighter_item"><span class="gk_news_highlighter_title">"The encouragement my kids have received has helped them build a very strong character"</span></div>
-                                        <div class="gk_news_highlighter_item"><span class="gk_news_highlighter_title">"Pillars Academy is the best investment we would ever make towards our daughter's future."</span></div>
-                                        <div class="gk_news_highlighter_item"><span class="gk_news_highlighter_title">"Our kids' passion and interest for Islam is evident"</span></div>
-                          </div>
-    <div class="gk_news_highlighter_interface">
-            <div><a href="index.html#" class="prev"></a>
-      <a href="index.html#" class="next"></a></div>
-        </div>
-  
+    {% for testimonial in site.data.testimonials %}
+      <div class="gk_news_highlighter_item">
+        <span class="gk_news_highlighter_title">&quot;{{ testimonial }}&quot;</span>
+      </div>
+    {% endfor %}
+  </div>
 </div>
+
     </div>
   
                       </div>
