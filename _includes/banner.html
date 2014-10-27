@@ -3,7 +3,13 @@
 {% for menu_hash in site.data.menu %}
   {% assign menu = menu_hash[1] %}
   {% if menu.path == paths[1] %}
+    {% if menu.href %}
+    <a href="{{ menu.href }}">
+        <img src="{{ menu.banner }}" />
+    </a>
+    {% else %}
     <img src="{{ menu.banner }}" />
+    {% endif %}
   {% endif %}
 {% endfor %}
 </div>

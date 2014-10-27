@@ -1,6 +1,6 @@
 path: students
 title: "Student Info"
-banner:
+banner: /templates/alridah/images/header/studentinfo.jpg
 href:
 items:
   - path: after-school

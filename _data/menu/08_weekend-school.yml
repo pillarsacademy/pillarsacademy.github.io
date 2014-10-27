@@ -1,6 +1,6 @@
 path: weekend-school
 title: "Weekend School"
-banner:
+banner: /templates/alridah/images/header/weekendschool.jpg
 href:
 items:
   - path: about

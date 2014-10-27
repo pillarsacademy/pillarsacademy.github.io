@@ -1,6 +1,6 @@
 path: learning
 title: "Learning"
-banner:
+banner: /templates/alridah/images/header/teachinglearning.jpg
 href:
 items:
   - path: toddlers

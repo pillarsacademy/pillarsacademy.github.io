@@ -1,6 +1,6 @@
 path: give
 title: "Give"
-banner:
+banner: /templates/alridah/images/header/give.jpg
 href:
 items:
   - path: ways-to-give

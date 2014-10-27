@@ -1,7 +1,7 @@
 path: news
 title: "News & Events"
-banner:
-href:
+banner: /templates/alridah/images/header/newsandevents.jpg
+href: https://www.facebook.com/PillarsAcademy
 items:
   - path: upcoming-events
     title: "Upcoming Events"

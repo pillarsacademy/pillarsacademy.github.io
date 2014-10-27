@@ -1,6 +1,6 @@
 path: admission
 title: "Admission"
-banner:
+banner: /templates/alridah/images/header/admission.jpg
 href:
 items:
   - path: enrollment
