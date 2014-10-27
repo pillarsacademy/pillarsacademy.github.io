@@ -108,8 +108,7 @@
                       </div>
 
           <div id="ma-contentbody">
-                        <div class="ma-welcome">
-                  <div class="moduletable">
+                  <div {% if home %}class="moduletable"{% else %}id="page"{% endif %}>
                     <br />
           {{ content }}
   
@@ -201,7 +200,6 @@
   
   </div>
 
-          </div>
         </div>
       </div>
     </div>
