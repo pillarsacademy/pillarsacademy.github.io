@@ -1,37 +1,53 @@
-<!-- Carousel
-================================================== -->
-<div id="this-carousel-id" class="carousel slide" data-ride="carousel"><!-- class of slide for animation -->
-  <!-- Indicators -->
+<div id="slideshow">
+                  <div class="moduletable">
+          <script type="text/javascript">
+window.addEvent('domready',function(){
+  var sp_image_rotator46 = new noobSlide({
+    box: $('sp-imr-items46'),
+    items:[1,2,3,4,5],
+    size: 965,
+    autoPlay: true,
+    interval: 5000,
+        buttons: {
+      previous: $('sp-imr-prev46'),
+      next: $('sp-imr-next46')
+    },
+        
+    fxOptions: {
+      duration: 1000,
+      transition: Fx.Transitions.Sine.easeOut,
+      wait: false
+    }
+  });
 
-  {% if site.data.carousels.size > 1 %}
-    <ol class="carousel-indicators">
-      {% for carousel in site.data.carousels %}
-        <li data-target="#this-carousel-id" 
-            {% if forloop.first %} class="active" {% endif %}
-            data-slide-to="{{ forloop.index0 }}"></li>
-      {% endfor %}
-    </ol>
-  {% endif %}
+});
+</script>
 
-  <div class="carousel-inner">
-    {% for carousel in site.data.carousels %}
-    <div class="item{% if forloop.first %} active{% endif %}">
-      <a href="{{carousel.href}}">
-         <img src="{{carousel.image}}" alt="" />
-      </a>
+<div class="sp-image-rotator">
+  <div class="sp-imr-wrapper" style="width:965px;height:388px">
+    <div id="sp-imr-items46" class="sp-imr-items">
+              <div class="sp-imr-item">
+          <img src="/images/slideshow/crophungerwalk2.jpg" alt="crophungerwalk2" style="height:388px;width:965px" />
+        </div>
+              <div class="sp-imr-item">
+          <img src="/images/slideshow/eidcarnival.jpg" alt="eidcarnival" style="height:388px;width:965px" />
+        </div>
+              <div class="sp-imr-item">
+          <img src="/images/slideshow/pa-banner1.jpg" alt="pa-banner1" style="height:388px;width:965px" />
+        </div>
+              <div class="sp-imr-item">
+          <img src="/images/slideshow/pa-banner2014.jpg" alt="pa-banner2014" style="height:388px;width:965px" />
+        </div>
+              <div class="sp-imr-item">
+          <img src="/images/slideshow/pa-banner3.jpg" alt="pa-banner3" style="height:388px;width:965px" />
+        </div>
+        
     </div>
-    {% endfor %}
-  </div><!-- /.carousel-inner -->
-
-  <!-- Controls -->
-  {% if site.data.carousels.size > 1 %}
-    <a class="left carousel-control" href="#this-carousel-id" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-    </a>
-    <a class="right carousel-control" href="#this-carousel-id" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
-    </a>
-  {% endif %}
-
+        <div id="sp-imr-prev46" class="sp-imr-prev"></div>
+    <div id="sp-imr-next46" class="sp-imr-next"></div>
+      </div>
 </div>
-<!-- /.carousel -->
+    </div>
+  
+            
+</div>

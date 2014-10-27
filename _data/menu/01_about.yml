@@ -1,6 +1,6 @@
 path: about
 title: "About"
-banner:
+banner: /templates/alridah/images/header/missionvision.jpg
 href:
 items:
   - path: mission

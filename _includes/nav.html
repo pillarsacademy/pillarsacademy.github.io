@@ -1,8 +1,12 @@
+{% assign paths = include.paths %}
+
 <div class="moduletable">
   <ul class="menu">
     {% for menu_hash in site.data.menu %}
     {% assign menu = menu_hash[1] %}
-        <li><a href="/{{ menu.path }}/{{ menu.items[0].path }}">{{ menu.title }}</a></li>
+        <li {% if menu.path == paths[1] %}class="active"{% endif %}>
+          <a href="/{{ menu.path }}/{{ menu.items[0].path }}">{{ menu.title }}</a>
+        </li>
     {% endfor %}
   </ul>
 </div>

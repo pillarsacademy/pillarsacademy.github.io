@@ -1,0 +1,20 @@
+{% assign paths = include.paths %}
+
+<div class="ma-submenu">
+<div class="moduletable">
+<ul class="menu">
+{% for menu_hash in site.data.menu %}
+  {% assign menu = menu_hash[1] %}
+  {% if menu.path == paths[1] %}
+    {% for item in menu.items %}
+      <li {% if item.path == paths[2] %}class="active" id="current"{% endif %}>
+        <a href="/{{ menu.path }}/{{ item.path }}">
+            <span>{{ item.title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</ul>
+</div>
+</div>
