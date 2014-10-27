@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<center># Become a Partner in Compassion</center>
+# Become a Partner in Compassion
 
 If you are a **Professional, Business, or Company** that would value being a recognized **Partner in Compassion**, there are a variety of rewarding ways to contribute!
 
@@ -33,7 +33,7 @@ Pillars’ Compassion Bulletin Board in OCIF Masjid
 
 *Newsletter is sent out via email & multiple social media outlets
 
-<center>###Sponsorship via Donations of Any Amount or Donations of Products or Services
+###Sponsorship via Donations of Any Amount or Donations of Products or Services
 
 These would also be greatly appreciated and recognized! We can talk further and determine how you can Partner in Compassion and benefit the school & its students with your valued Products or Services.  
 **As we are under a 501c3, your Generous Donations are TAX-DEDUCTIBLE.**  
@@ -41,7 +41,7 @@ These would also be greatly appreciated and recognized! We can talk further and 
 
 Ahlam Moughania, Director of Pillars Academy
 
-Contact me: **T** 949-951-0442, or <director@pillarsacademy.org> </center>
+Contact me: **T** 949-951-0442, or <director@pillarsacademy.org>
 
 ####What it means to be a Sponsoring Partner in Compassion
 
