@@ -28,11 +28,11 @@ The majority of gifts to Pillars Academy are cash contributions to the Annual Fu
 Please make checks payable to Pillars Academy and mail to:
 
 Pillars Academy
-23581 Madero Dr., Suite 104
-Mission Viejo, CA 92691
+23581 Madero, Suite #104  
+Mission Viejo, CA 92691  
 
 ### Questions? Please contact:
 
-Mohannad Malas 
-949.874.5780 
+Mohannad Malas
+949.874.5780
 <mmalas@msn.com>
