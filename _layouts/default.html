@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" >
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
@@ -14,13 +14,13 @@
   <title>{{ site.name}}</title>
   {% endif %}
 
-  <link rel="stylesheet" href="media/com_acymailing/css/module_default.css" type="text/css" />
-  <link rel="stylesheet" href="modules/mod_gk_news_highlighter/style/style.css" type="text/css" />
-  <link rel="stylesheet" href="modules/mod_sp_image_rotator/assets/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_acymailing/css/module_default.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_gk_news_highlighter/style/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sp_image_rotator/assets/css/style.css" type="text/css" />
 
-  <script type="text/javascript" src="media/system/js/mootools.js"></script>
-  <script type="text/javascript" src="media/system/js/caption.js"></script>
-  <script type="text/javascript" src="modules/mod_gk_news_highlighter/scripts/engine_compress.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/modules/mod_gk_news_highlighter/scripts/engine_compress.js"></script>
   <script type="text/javascript">
     try {$Gavick;}catch(e){$Gavick = {};};
     $Gavick["gk_news_highlighternews-highlight-1"] = {
@@ -30,13 +30,13 @@
         "animationFun" : Fx.Transitions.linear,
         "mouseover" : 1};
   </script>
-  <script type="text/javascript" src="modules/mod_sp_image_rotator/assets/script/noobSlide.js"></script>
+  <script type="text/javascript" src="/modules/mod_sp_image_rotator/assets/script/noobSlide.js"></script>
   
-  <link rel="stylesheet" href="templates/system/css/system.css" type="text/css" />
-  <link rel="stylesheet" href="templates/system/css/general.css" type="text/css" />
-  <link rel="stylesheet" href="templates/alridah/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/alridah/css/template.css" type="text/css" />
   
-  <script language="javascript" type="text/javascript" src="templates/alridah/js/ja.script.js"></script>
+  <script language="javascript" type="text/javascript" src="/templates/alridah/js/ja.script.js"></script>
   
   </head>
 <body id="bd" class="fs3">
@@ -48,13 +48,12 @@
                     <h1 class="logo"><a href="index.html" title="Pillars Academy"><span>Pillars Academy</span></a></h1>
           <div class="top-menu">
                 <div class="moduletable-nav">
-          <ul class="menu-nav"><li class="item28"><a href="https://www.facebook.com/pages/Pillars-Academy-Where-Future-Leaders-are-inspired-nurtured/116191751802455"><img src="images/stories/facebook.png" align="left" alt="facebook" /><span>Facebook</span></a></li><li class="item29"><a href="index.php/upcoming-events.html"><img src="images/stories/calendar.png" align="left" alt="calendar" /><span>Calendar</span></a></li><li class="item30"><a href="index.html"><img src="images/stories/home.png" align="left" alt="home" /><span>Home</span></a></li></ul>    </div>
+          <ul class="menu-nav"><li class="item28"><a href="https://www.facebook.com/pages/Pillars-Academy-Where-Future-Leaders-are-inspired-nurtured/116191751802455"><img src="/images/stories/facebook.png" align="left" alt="facebook" /><span>Facebook</span></a></li><li class="item29"><a href="index.php/upcoming-events.html"><img src="/images/stories/calendar.png" align="left" alt="calendar" /><span>Calendar</span></a></li><li class="item30"><a href="index.html"><img src="/images/stories/home.png" align="left" alt="home" /><span>Home</span></a></li></ul>    </div>
   
           </div>
+
           <div class="main-menu">
-                <div class="moduletable">
-          <ul class="menu"><li class="item54"><a href="index.php/mission-a-vision.html"><span>About</span></a></li><li class="item65"><a href="index.php/toddler-program.html"><span>Learning</span></a></li><li class="item71"><a href="index.php/enrollment-process.html"><span>Admission</span></a></li><li class="item76"><a href="index.php/after-school-activities.html"><span>Student Info</span></a></li><li class="item78"><a href="index.php/upcoming-events.html"><span>News &amp; Events</span></a></li><li class="item85"><a href="index.php/give-to-pillars-academy.html"><span>Give</span></a></li><li class="item105"><a href="index.php/partner-with-the-charter-of-compassion.html"><span>Charter for Compassion</span></a></li><li class="item94"><a href="index.php/weekendschool.html"><span>Weekend School</span></a></li></ul>   </div>
-  
+            {% include nav.html %}
           </div>
           
           <div class="clearfix"></div>
@@ -88,19 +87,19 @@ window.addEvent('domready',function(){
   <div class="sp-imr-wrapper" style="width:965px;height:388px">
     <div id="sp-imr-items46" class="sp-imr-items">
               <div class="sp-imr-item">
-          <img src="images/slideshow/crophungerwalk2.jpg" alt="crophungerwalk2" style="height:388px;width:965px" />
+          <img src="/images/slideshow/crophungerwalk2.jpg" alt="crophungerwalk2" style="height:388px;width:965px" />
         </div>
               <div class="sp-imr-item">
-          <img src="images/slideshow/eidcarnival.jpg" alt="eidcarnival" style="height:388px;width:965px" />
+          <img src="/images/slideshow/eidcarnival.jpg" alt="eidcarnival" style="height:388px;width:965px" />
         </div>
               <div class="sp-imr-item">
-          <img src="images/slideshow/pa-banner1.jpg" alt="pa-banner1" style="height:388px;width:965px" />
+          <img src="/images/slideshow/pa-banner1.jpg" alt="pa-banner1" style="height:388px;width:965px" />
         </div>
               <div class="sp-imr-item">
-          <img src="images/slideshow/pa-banner2014.jpg" alt="pa-banner2014" style="height:388px;width:965px" />
+          <img src="/images/slideshow/pa-banner2014.jpg" alt="pa-banner2014" style="height:388px;width:965px" />
         </div>
               <div class="sp-imr-item">
-          <img src="images/slideshow/pa-banner3.jpg" alt="pa-banner3" style="height:388px;width:965px" />
+          <img src="/images/slideshow/pa-banner3.jpg" alt="pa-banner3" style="height:388px;width:965px" />
         </div>
         
     </div>
@@ -125,7 +124,7 @@ window.addEvent('domready',function(){
         <div id="ma-containerwrap" class="clearfix">
           <div id="ma-right">
                             <div class="moduletable">
-          <p><a href="http://www.youtube.com/watch?v=ZTg6d59JvJc" mce_href="http://www.youtube.com/watch?v=ZTg6d59JvJc" target="_blank" style=""><img src="images/stories/site-images/title_video.jpg" mce_src="/images/stories/site-images/title_video.jpg" mce_style="border: 0px;" style="border: 0px;"></a></p><p><br></p>    </div>
+          <p><a href="http://www.youtube.com/watch?v=ZTg6d59JvJc" mce_href="http://www.youtube.com/watch?v=ZTg6d59JvJc" target="_blank" style=""><img src="/images/stories/site-images/title_video.jpg" mce_src="/images/stories/site-images/title_video.jpg" mce_style="border: 0px;" style="border: 0px;"></a></p><p><br></p>    </div>
       <div class="moduletable-highlighter">
           <h3>Testimonials</h3>
           
@@ -151,7 +150,9 @@ window.addEvent('domready',function(){
           <div id="ma-contentbody">
                         <div class="ma-welcome">
                   <div class="moduletable">
-          
+                  {% assign x = page.url | split:'/' %}
+                  FFFF: {{ x[1] }}
+          Menu Cat: {{page.category}} -- {{ page.url | split:'/' }}
           {{ content }}
   
             </div>
@@ -315,7 +316,7 @@ upcoming events</span>            <div class="acymailing_form">
               <div class="moduletable">
           <h3>Accreditation</h3>
           <p>Pillars Academy is the only Islamic School Accredited by both</p>
-<p><img src="images/stories/site-images/accred_logos.jpg" border="0" /></p>   </div>
+<p><img src="/images/stories/site-images/accred_logos.jpg" border="0" /></p>   </div>
   
         </div>
       </div>

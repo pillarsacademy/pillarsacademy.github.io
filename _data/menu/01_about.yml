@@ -1,0 +1,17 @@
+path: about
+title: "About"
+banner:
+href:
+items:
+  - path: mission
+    title: "Mission & Vision"
+  - path: directors-welcome
+    title: "Director's Welcome"
+  - path: board-of-trustees
+    title: "Board of Trustees"
+  - path: faqs
+    title: "FAQs"
+  - path: testimonials
+    title: "Testimonials"
+  - path: directions
+    title: "Directions"

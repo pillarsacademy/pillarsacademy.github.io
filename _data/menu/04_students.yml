@@ -1,0 +1,13 @@
+path: students
+title: "Student Info"
+banner:
+href:
+items:
+  - path: after-school
+    title: "After School Activities"
+  - path: themes-values
+    title: "Global Perspective Themes & Islamic Values"
+  - path: resources
+    title: "Resources"
+  - path: parent-handbook
+    title: "Parent Handbook"

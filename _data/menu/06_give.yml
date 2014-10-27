@@ -1,0 +1,11 @@
+path: give
+title: "Give"
+banner:
+href:
+items:
+  - path: ways-to-give
+    title: "Ways to Give"
+  - path: sponsorship
+    title: "Sponsorship Packages"
+  - path: give
+    title: "Give"

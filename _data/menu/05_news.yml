@@ -1,0 +1,15 @@
+path: news
+title: "News & Events"
+banner:
+href:
+items:
+  - path: upcoming-events
+    title: "Upcoming Events"
+  - path: newsletter
+    title: "Newsletter"
+  - path: ptc
+    title: "PTC Corner"
+  - path: press
+    title: "Press Releases"
+  - path: photos
+    title: "Photos"

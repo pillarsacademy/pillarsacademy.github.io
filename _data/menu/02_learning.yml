@@ -1,0 +1,15 @@
+path: learning
+title: "Learning"
+banner:
+href:
+items:
+  - path: toddlers
+    title: "Toddler Program"
+  - path: preschool
+    title: "Preschool"
+  - path: elementary
+    title: "Elementary K-6"
+  - path: religious-studies
+    title: "Religious Studies"
+  - path: leadership
+    title: "Leadership Program"

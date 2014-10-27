@@ -1,0 +1,15 @@
+path: admission
+title: "Admission"
+banner:
+href:
+items:
+  - path: enrollment
+    title: "Enrollment Process"
+  - path: applications
+    title: "Applications"
+  - path: tuition
+    title: "Tuition & Fees"
+  - path: aid
+    title: "Financial Aid"
+  - path: uniform
+    title: "Uniform"
