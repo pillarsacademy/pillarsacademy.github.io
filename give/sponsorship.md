@@ -7,8 +7,8 @@ layout: default
 <center>If you are a **Professional, Business, or Company** that would value being a recognized **Partner in Compassion**, there are a variety of rewarding ways to contribute!</center>
 
 ###<center>Sponsor an Academic Scholarship- $3000  
-###(10 Recurring Monthly Installments of $300)  
-*Your Name or Business/Company Logo will be displayed on:*  
+###<center>(10 Recurring Monthly Installments of $300)  
+<center>*Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 10 Months  
 Monthly Newsletter*- 10 months  
 Pillars' Compassion Bulletin Board in OCIF Masjid  
