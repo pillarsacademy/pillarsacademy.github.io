@@ -64,10 +64,10 @@ Structure
 The Committee is responsible for identifying, recruiting and appointing qualified candidates.
 
 The appointment process is as follows:  
-- Candidate names will be solicited in April of each year.
-- The Committee will review the qualifications and select nominees for further consideration.
-- A Committee member will then be selected to approach the final nominees for the acceptance of their respective positions.
-- Upon confirmation of all appointments, the new officers will be announced at the final PTC meeting.
+- Candidate names will be solicited in April of each year.  
+- The Committee will review the qualifications and select nominees for further consideration.  
+- A Committee member will then be selected to approach the final nominees for the acceptance of their respective positions.  
+- Upon confirmation of all appointments, the new officers will be announced at the final PTC meeting.  
 - A meeting will then take place to review guidelines and responsibilities in detail. Further meetings will then be scheduled with the School Head in order to set the calendar of events for the following year.
 
 ####Officers  
