@@ -9,7 +9,7 @@ Pillars Academy is one of [countless schools and colleges](http://compassiongame
 
 COME show YOUR Compassion with your Support, Participation, or Attendance at any of the Pillars Academy Students'
 "Compassion Games" October 15th-25th!  
-![GitHub Logo](/images/pillarscompassioncalendar.jpg)
+<center>![GitHub Logo](/images/pillarscompassioncalendar.jpg)</center>
 
 Every school shares in the collective difference they’ve made as a campus and as a league.By participating, players are called upon to perform acts of service and kindness in our neighborhoods, on the job, with service-providing agencies, and wherever their daily journey takes them. The acts of service are organized projects or simple acts of kindness to aid a neighbor in need. Although during the annual "co-opetition" we measure and tally the numbers of volunteers, hours of community service, money raised for causes, and the number of people served, no one can lose the Compassion Games.  
-![GitHub Logo](/images/fourstepgraphic.jpg)
+<center>![GitHub Logo](/images/fourstepgraphic.jpg)</center>
