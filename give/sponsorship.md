@@ -15,23 +15,23 @@ Pillars' Compassion Bulletin Board in OCIF Masjid
 2015 Annual Banquet Display Materials</center>  
 
 ###<center>$1000 Sponsorship  
-*Your Name or Business/Company Logo will be displayed on:*  
+<center>*Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 3 Months  
 Monthly Newsletter*- 3 months  
 Pillars’ Compassion Bulletin Board in OCIF Masjid</center>  
 
 ###<center>$700 Sponsorship  
-*Your Name or Business/Company Logo will be displayed on:*  
+<center>*Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 2 Months  
 Monthly Newsletter*- 2 months  
 Pillars’ Compassion Bulletin Board in OCIF Masjid</center>  
 
 ###<center>$500 Sponsorship  
-*Your Name or Business/Company Logo will be displayed on:*  
+<center>*Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 2 Months  
 Pillars’ Compassion Bulletin Board in OCIF Masjid</center>  
 
-*<center>Newsletter is sent out via email & multiple social media outlets</center>
+<center>*Newsletter is sent out via email & multiple social media outlets</center>
 
 ###<center>Sponsorship via Donations of Any Amount or Donations of Products or Services</center>
 
