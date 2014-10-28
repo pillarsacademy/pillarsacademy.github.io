@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#Pillars Academy is a Proud Partner of the Charter for Compassion!  
+#<center>Pillars Academy is a Proud Partner of the Charter for Compassion!</center>   
 <center>[![GitHub Logo](/images/compassion.jpg)](https://www.youtube.com/watch?v=wktlwCPDd94)</center>
 
 <center>**Pillars Academy – School of Compassion Proclamation**</center>
@@ -19,7 +19,7 @@ layout: default
 
 <center>**Therefore**, Pillars Academy Student Council proclaims and calls upon all students to lead by example in being compassionate as was taught to us by our Prophet (PBUH). In doing so, we will be positive role models to one another, our diverse community, and international pen pals.</center>
 
-<center>#####Proclaimed on this 13th day of the month of March, 2014</center>
+####<center>Proclaimed on this 13th day of the month of March, 2014</center>
 
 <center>Ibrahim Masoud, Alt. President		Zehra Mohiuddin, Vice - President  
 Farah Eloraby, Alt. V.President		Amman Tariq, Alt. V. President  
