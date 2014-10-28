@@ -2,46 +2,46 @@
 layout: default
 ---
 
-# Become a Partner in Compassion
+# <center>Become a Partner in Compassion</center>
 
-If you are a **Professional, Business, or Company** that would value being a recognized **Partner in Compassion**, there are a variety of rewarding ways to contribute!
+<center>If you are a **Professional, Business, or Company** that would value being a recognized **Partner in Compassion**, there are a variety of rewarding ways to contribute!</center>
 
-###Sponsor an Academic Scholarship- $3000  
+###<center>Sponsor an Academic Scholarship- $3000  
 ###(10 Recurring Monthly Installments of $300)  
 *Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 10 Months  
 Monthly Newsletter*- 10 months  
 Pillars' Compassion Bulletin Board in OCIF Masjid  
-2015 Annual Banquet Display Materials  
+2015 Annual Banquet Display Materials</center>  
 
-###$1000 Sponsorship  
+###<center>$1000 Sponsorship  
 *Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 3 Months  
 Monthly Newsletter*- 3 months  
-Pillars’ Compassion Bulletin Board in OCIF Masjid  
+Pillars’ Compassion Bulletin Board in OCIF Masjid</center>  
 
-###$700 Sponsorship  
+###<center>$700 Sponsorship  
 *Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 2 Months  
 Monthly Newsletter*- 2 months  
-Pillars’ Compassion Bulletin Board in OCIF Masjid  
+Pillars’ Compassion Bulletin Board in OCIF Masjid</center>  
 
-###$500 Sponsorship  
+###<center>$500 Sponsorship  
 *Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 2 Months  
-Pillars’ Compassion Bulletin Board in OCIF Masjid  
+Pillars’ Compassion Bulletin Board in OCIF Masjid</center>  
 
-*Newsletter is sent out via email & multiple social media outlets
+*<center>Newsletter is sent out via email & multiple social media outlets</center>
 
-###Sponsorship via Donations of Any Amount or Donations of Products or Services
+###<center>Sponsorship via Donations of Any Amount or Donations of Products or Services</center>
 
-These would also be greatly appreciated and recognized! We can talk further and determine how you can Partner in Compassion and benefit the school & its students with your valued Products or Services.  
+<center>These would also be greatly appreciated and recognized! We can talk further and determine how you can Partner in Compassion and benefit the school & its students with your valued Products or Services.  
 **As we are under a 501c3, your Generous Donations are TAX-DEDUCTIBLE.**  
-*I look forward to hearing from you and thank you in advance for your support!*  
+*I look forward to hearing from you and thank you in advance for your support!*</center>  
 
-Ahlam Moughania, Director of Pillars Academy
+<center>Ahlam Moughania, Director of Pillars Academy</center>
 
-Contact me: **T** 949-951-0442, or <director@pillarsacademy.org>
+<center>Contact me: **T** 949-951-0442, or <director@pillarsacademy.org></center>
 
 ####What it means to be a Sponsoring Partner in Compassion
 
