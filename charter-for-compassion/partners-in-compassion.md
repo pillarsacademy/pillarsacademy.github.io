@@ -6,8 +6,8 @@ layout: default
 
 <center>These are Organizations, Businesses, & Wonderful People who are either Partners with Pillars Academy in giving back to the community,or [Invaluable Sponsors](http://pillarsacademy.github.io/give/sponsorship)!</center>
 
-####<center>Please thank them with your business and recognition!</center>
+###<center>Please thank them with your business and recognition!</center>
 
-#####<center>got compassion?</center>
+####<center>got compassion?</center>
 
 <center>[I'm interested in Becoming a Sponsor Partner in Compassion.](http://pillarsacademy.github.io/give/sponsorship)</center>
