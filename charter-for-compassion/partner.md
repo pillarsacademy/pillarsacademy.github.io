@@ -19,14 +19,14 @@ layout: default
 
 <center>**Therefore**, Pillars Academy Student Council proclaims and calls upon all students to lead by example in being compassionate as was taught to us by our Prophet (PBUH). In doing so, we will be positive role models to one another, our diverse community, and international pen pals.</center>
 
-##<center>Proclaimed on this 13th day of the month of March, 2014</center>
+<center>**Proclaimed on this 13th day of the month of March, 2014**</center>
 
-<center>Ibrahim Masoud, Alt. President		Zehra Mohiuddin, Vice - President  
-Farah Eloraby, Alt. V.President		Amman Tariq, Alt. V. President  
-Hidaya Rajput, Secretary				  Yara Eloraby, Alt. Secretary  
-Fadl Charafeddine, Treasurer			Waleed Qazi, Alt. Treasurer  
-Andrea Poblete, Teacher					  Megan Webb, Teacher  
-Sahar Ali, Leadership Mentor			Ahlam Moughania, Director</center>
+<center>Ibrahim Masoud, Alt. President    Zehra Mohiuddin, Vice - President  
+Farah Eloraby, Alt. V.President   Amman Tariq, Alt. V. President  
+Hidaya Rajput, Secretary    Yara Eloraby, Alt. Secretary  
+Fadl Charafeddine, Treasurer    Waleed Qazi, Alt. Treasurer  
+Andrea Poblete, Teacher   Megan Webb, Teacher  
+Sahar Ali, Leadership Mentor    Ahlam Moughania, Director</center>
 
 <center>[How to be a Partner of Compassion](http://pillarsacademy.github.io/charter-for-compassion/partners-in-compassion/)  
 [Sign the Proclamation as an Individual](https://charterforcompassion.org/the-charter)  
