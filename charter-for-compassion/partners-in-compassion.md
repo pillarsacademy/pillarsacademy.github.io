@@ -8,6 +8,5 @@ layout: default
 
 ###<center>Please thank them with your business and recognition!</center>
 
-####<center>got compassion?</center>
-
+####<center>got compassion?</center>  
 <center>[I'm interested in Becoming a Sponsor Partner in Compassion.](http://pillarsacademy.github.io/give/sponsorship)</center>
