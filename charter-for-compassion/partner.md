@@ -21,9 +21,7 @@ layout: default
 
 <center>**Proclaimed on this 13th day of the month of March, 2014**</center>
 
-<center>    |   
------------ | ----------
-Ibrahim Masoud, Alt. President | Zehra Mohiuddin, Vice - President  
+<center>Ibrahim Masoud, Alt. President | Zehra Mohiuddin, Vice - President  
 Farah Eloraby, Alt. V.President | Amman Tariq, Alt. V. President  
 Hidaya Rajput, Secretary | Yara Eloraby, Alt. Secretary  
 Fadl Charafeddine, Treasurer | Waleed Qazi, Alt. Treasurer  
