@@ -27,3 +27,9 @@ Currently the Github web interface does not allow you to directly upload images,
 1. Click [here](https://github.com/pillarsacademy/pillarsacademy.github.io/issues/1) and drag your image to the `Leave a comment box`.
 2. Copy the markdown that was generated, you'll paste that wherever you want to put the image later. If you only want the URL (for the carousel for example) just copy everything inside of the parenthesis.
 3. Click the `Comment` button to save the comment (this might not be required, the image should still remain even if you don't save the comment).
+
+## Updating the embedded newsletter
+
+1. Click on the "Past Issues" link in the Newsletter section.
+2. Right-click on the latest issue, and save the shortcut URL.
+3. Paste that copied shortcut in `/news/newsletter.html` to overwrite the existing one.
