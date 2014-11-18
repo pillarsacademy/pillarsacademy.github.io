@@ -3,42 +3,12 @@
         <div class="moduletable">
             <h2>Upcoming Events</h2>
             <ul class="eventlistmod">
-                <li>
-                    <span class="date">
-                        10.22.2014 -
-                    </span>
-                    <a href="index.php/upcoming-events/details/242-drug-awareness-week.html">&nbsp;<span class="location">Drug Awareness Week</span></a>
-                </li>
-                <li>
-                    <span class="date">
-                        10.19.2014 -
-                    </span>
-                    <a href="index.php/upcoming-events/details/239-crop-hunger-walk.html">&nbsp;<span class="location">CROP Hunger Walk</span></a>
-                </li>
-                <li>
-                    <span class="date">
-                        10.18.2014 -
-                    </span>
-                    <a href="index.php/upcoming-events/details/240-walk-against-drugs.html">&nbsp;<span class="location">Walk against Drugs</span></a>
-                </li>
-                <li>
-                    <span class="date">
-                        10.15.2014 -
-                    </span>
-                    <a href="index.php/upcoming-events/details/237-fall-picture-day.html">&nbsp;<span class="location">Fall Picture Day</span></a>
-                </li>
-                <li>
-                    <span class="date">
-                        10.15.2014 -
-                    </span>
-                    <a href="index.php/upcoming-events/details/238-student-leadership-oc-compassion-games.html">&nbsp;<span class="location">Student Leadership-OC Compassion Games</span></a>
-                </li>
-                <li>
-                    <span class="date">
-                        10.12.2014 -
-                    </span>
-                    <a href="index.php/upcoming-events/details/241-eid-carnival.html">&nbsp;<span class="location">Eid Carnival</span></a>
-                </li>
+                {% for event in site.categories['upcoming-events'] reversed %}
+                  <li>
+                  <span class="date">{{ event.date | date: "%D" }} &mdash; </span>
+                  <a href="{{ event.url }}">&nbsp;<span class="location">{{ event.title }}</span></a>
+                  </li>
+                {% endfor %}
             </ul>
         </div>
     </div>
