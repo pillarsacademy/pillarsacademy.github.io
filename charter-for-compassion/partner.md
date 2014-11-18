@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-##<center>Pillars Academy is a Proud Partner of the Charter for Compassion!</center>   
-<center>[![GitHub Logo](/images/compassion.jpg)](https://www.youtube.com/watch?v=wktlwCPDd94)</center>
+##<center>Pillars Academy is a Proud Partner of the Charter for Compassion!</center>
+<center>
+  <a href="https://www.youtube.com/watch?v=wktlwCPDd94">
+    <img src="/images/compassion.jpg" width="400" />
+  </a>
+</center>
 
 <center>**Pillars Academy – School of Compassion Proclamation**</center>
 

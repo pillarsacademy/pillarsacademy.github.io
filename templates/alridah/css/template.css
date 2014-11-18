@@ -49,8 +49,8 @@ a:link {
 a:visited {
 	color: #E05C19;
 }
-a:active { 
-	outline:none; 
+a:active {
+	outline:none;
 }
 a:hover {
 	color: #E05C19;
@@ -392,19 +392,9 @@ div.ma-welcome {
 		width: 48%;
 		float: left;
 	}
-	#ma-eventsnews div.ma-events h3 {
-		background: url(../images/title_events.gif) scroll no-repeat 0 0 transparent;
-		text-indent: -9999px;
-		margin: 0 0 13px;
-	}
 	#ma-eventsnews div.ma-news {
 		width: 48%;
 		float: right;
-	}
-	#ma-eventsnews div.ma-news h3 {
-		background: url(../images/title_news.gif) scroll no-repeat 0 0 transparent;
-		text-indent: -9999px;
-		margin: 0 0 13px;
 	}
 	div.ma-news ul {
 		list-style: none none outside;
@@ -457,14 +447,14 @@ div.moduletable-highlighter h3 {
 		width: 246px;
 		margin-left: 10px;
 	}
-	
+
 	#ma-footer div.moduletable h3 {
 		color: #FFFFFF;
 		font-weight: bold;
 		padding: 0 0 15px;
 		text-shadow: 1px 2px #000000;
 	}
-	
+
 div.filter p {
 	text-align: right;
 }
@@ -523,7 +513,7 @@ table.category {
 		top: 110px;
 		height: 20px;
 	}
-	
+
 	div.ma-bottommenu ul li {
 		border-right: 1px solid #ccc;
 		float: left;
@@ -539,7 +529,7 @@ table.category {
 	div.ma-bottommenu ul li a:visited {
 		color: #5B8AB9;
 	}
-	
+
 	#ma-copyright div.copyright {
 		float: left;
 		width: auto;
@@ -560,7 +550,7 @@ div.hr {
 	div.hr hr {
 	  display: none;
 	}
-	
+
 span.acymailing_introtext {
 	display: block;
 	padding: 0 0 10px;
