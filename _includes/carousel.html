@@ -26,15 +26,15 @@ window.addEvent('domready',function(){
 <div class="sp-image-rotator">
   <div class="sp-imr-wrapper" style="width:965px;height:388px">
     <div id="sp-imr-items46" class="sp-imr-items">
-        <div class="sp-imr-item">
-          <img src="/images/slideshow/pa-banner1.jpg" style="height:388px;width:965px" />
-        </div>
-        <div class="sp-imr-item">
-          <img src="/images/slideshow/pa-banner2014.jpg" style="height:388px;width:965px" />
-        </div>
-        <div class="sp-imr-item">
-          <img src="/images/slideshow/pa-banner3.jpg" style="height:388px;width:965px" />
-        </div>
+      {% for carousel in site.data.carousels %}
+      <div class="sp-imr-item">
+      {% if carousel.href %}
+        <a href="{{ carousel.href }}"><img src="{{ carousel.image }}" style="height:388px;width:965px" /></a>
+      {% else %}
+        <img src="{{ carousel.image }}" style="height:388px;width:965px" />
+      {% endif %}
+      </div>
+      {% endfor %}
     </div>
     <div id="sp-imr-prev46" class="sp-imr-prev"></div>
     <div id="sp-imr-next46" class="sp-imr-next"></div>
