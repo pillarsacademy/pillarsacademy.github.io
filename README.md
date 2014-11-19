@@ -34,6 +34,24 @@ Update the [menu data file](https://github.com/pillarsacademy/pillarsacademy.git
 
 Each menu also has a sub-menu that appears below the banner. Just like the menu, these have a path and a title. The menu path must match the folder that the file is in and the item path must match the name of the file (minus the `.md` suffix).
 
+## Creating new events
+
+Click [here](https://github.com/pillarsacademy/pillarsacademy.github.io/new/master/news/upcoming-events/_posts) to open the new events page. You **must** name the filename using the following convention, otherwise your event will not appear. Do not forget the `.md` extension.
+
+`FOUR DIGIT YEAR`-`TWO DIGIT MONTH`-`TWO DIGIT DAY`-`DESCRIPTION SEPARATED BY HYPENS` `.md`
+
+Look at the [existing events](https://github.com/pillarsacademy/pillarsacademy.github.io/tree/master/news/upcoming-events/_posts) before creating a new one. The file content should look the following template:
+
+```
+---
+layout: event
+title: "Thanksgiving Break: No School"
+when: 11.27.2014 - 11.28.2014
+---
+
+Any additional description here.
+```
+
 ## Uploading images
 
 Currently the Github web interface does not allow you to directly upload images, so you'll need to use the Github client for Mac or Windows. However, you can also use the following workaround for now:
