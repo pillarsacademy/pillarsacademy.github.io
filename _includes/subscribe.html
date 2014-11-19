@@ -1,0 +1,35 @@
+<h3>Mailing List</h3>
+
+<div class="acymailing_module">
+    <div class="acymailing_fulldiv">
+    <form action="https://script.google.com/macros/s/AKfycbyG7jQxMJECArtWIjOO_Fj-9KKVHJmXvD0lpTSNMMfM3vxmBw/exec"
+          onsubmit="return submitacymailingform('optin','formAcymailing1')"
+          method="post">
+      <div class="acymailing_module_form" >
+          <span class="acymailing_introtext">Sign up to receive news about our upcoming events</span>
+          <div class="acymailing_form">
+              <p class="onefield">
+                  <span class="acyfield_name">
+                      <input name="name"
+                             onfocus="if (this.value == 'Name') this.value = '';"
+                             onblur="if (this.value=='') this.value='Name';"
+                             class="inputbox" type="text" size="15" value="Name" />
+                  </span>
+              </p>
+              <p class="onefield">
+                  <span class="acyfield_email">
+                      <input name="email"
+                             onfocus="if (this.value == 'E-mail') this.value = '';"
+                             onblur="if (this.value=='') this.value='E-mail';"
+                             class="inputbox" type="text" size="15" value="E-mail" />
+                  </span>
+              </p>
+              <p class="acysubbuttons">
+                  <input class="button subbutton" type="submit" value="Subscribe" name="Submit"
+                         onclick="try{ return submitacymailingform('optin','formAcymailing1'); }catch(err){alert('The form could not be submitted '+err);return false;}" />
+              </p>
+          </div>
+      </div>
+    </form>
+    </div>
+</div>

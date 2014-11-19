@@ -17,9 +17,11 @@
   {% assign paths = page.url | split:'/' %}
   {% unless paths and paths[1] and paths[2] %}{% assign home = true %}{% endunless %}
 
-  <link rel="stylesheet" href="/media/com_acymailing/css/module_default.css" type="text/css" />
   <link rel="stylesheet" href="/modules/mod_gk_news_highlighter/style/style.css" type="text/css" />
   <link rel="stylesheet" href="/modules/mod_sp_image_rotator/assets/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/alridah/css/template.css" type="text/css" />
 
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
@@ -34,14 +36,8 @@
         "mouseover" : 1};
   </script>
   <script type="text/javascript" src="/modules/mod_sp_image_rotator/assets/script/noobSlide.js"></script>
-
-  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
-  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
-  <link rel="stylesheet" href="/templates/alridah/css/template.css" type="text/css" />
-
-  <script language="javascript" type="text/javascript" src="/templates/alridah/js/ja.script.js"></script>
-
-  </head>
+  <script type="text/javascript" src="/templates/alridah/js/ja.script.js"></script>
+</head>
 <body id="bd" class="fs3">
   <a name="top" id="top"></a>
   <div id="ja-wrapper-{% if home %}top{% else %}sub{% endif %}" class="clearfix">
@@ -133,66 +129,17 @@
     <div id="ma-footerwrap" class="clearfix">
       <div id="ma-footer" class="clearfix">
         <div class="ma-mid1">
-              <div class="moduletable">
+
+        <div class="moduletable">
           <h3>Contact Us</h3>
           <p>23581 Madero, Suite #104, Mission Viejo, CA 92691 <br />T  949.951.0442 <br />F  949.951.0245 <br /><a href="mailto:info@pillarsacademy.org">info@pillarsacademy.org</a><br /><a href="http://www.ocif.org/">OCIF Masjid</a></p>
-<script type="text/javascript">// <![CDATA[
-// Hack to allow clicking on the banners
-
-$$('img[alt=fund-web-banner]').addEvent('click', function() {
-  window.open('http://www.timenow.eventbrite.com', '_blank');
-}).setStyle('cursor', 'pointer');
-
-$$('img[alt=open-house-banner]').addEvent('click', function() {
-  location.href = 'http://www.pillarsacademy.org/index.php/upcoming-events/details/28-open-house';
-}).setStyle('cursor', 'pointer');
-
-$$('img[alt$=newsandevents.jpg]').addEvent('click', function() {
-  window.open('https://www.facebook.com/pages/Pillars-Academy-Where-Future-Leaders-are-inspired-nurtured/116191751802455', '_blank');
-}).setStyle('cursor', 'pointer');
-// ]]></script>   </div>
+        </div>
 
         </div>
         <div class="ma-mid2">
-              <div class="moduletable">
-          <h3>Mailing List</h3>
-          <script type="text/javascript">
-            <!--
-          var acymailing = Array();
-          acymailing['NAMECAPTION'] = 'Name';
-          acymailing['NAME_MISSING'] = 'Please enter your name';
-          acymailing['EMAILCAPTION'] = 'E-mail';
-          acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
-          acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
-          acymailing['CAPTCHA_MISSING'] = 'Please enter the security code displayed in the image';
-          acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
-      //-->
-            </script>
-<script type="text/javascript" src="media/com_acymailing/js/acymailing_module.js" ></script>
-<div class="acymailing_module" id="acymailing_module_formAcymailing1">
-  <div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing1"  >
-    <form id="formAcymailing1" action="http://www.pillarsacademy.org/index.php" onsubmit="return submitacymailingform('optin','formAcymailing1')" method="post" name="formAcymailing1">
-    <div class="acymailing_module_form" >
-      <span class="acymailing_introtext">Sign up to receive news about our
-upcoming events</span>            <div class="acymailing_form">
-          <p class="onefield" id="field_name_formAcymailing1">                <span class="acyfield_name"><input id="user_name_formAcymailing1"  onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" class="inputbox" type="text" name="user[name]" size="15" value="Name" /></span>
-              </p><p class="onefield" id="field_email_formAcymailing1">               <span class="acyfield_email"><input id="user_email_formAcymailing1"  onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" size="15" value="E-mail" /></span>
-              </p>          <p class="acysubbuttons">
-                        <input class="button subbutton" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing1'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
-                      </p>
-        </div>
-            <input type="hidden" name="ctrl" value="sub"/>
-      <input type="hidden" name="task" value="notask"/>
-      <input type="hidden" name="redirect" value="http%3A%2F%2Fwww.pillarsacademy.org%2F"/>
-      <input type="hidden" name="redirectunsub" value="http%3A%2F%2Fwww.pillarsacademy.org%2F"/>
-      <input type="hidden" name="option" value="com_acymailing"/>
-            <input type="hidden" name="hiddenlists" value="1"/>
-      <input type="hidden" name="acyformname" value="formAcymailing1" />
-            <input type="hidden" name="Itemid" value="1"/>      </div>
-    </form>
-  </div>
-  </div>    </div>
-
+            <div class="moduletable">
+                {% include subscribe.html %}
+            </div>
         </div>
         <div class="ma-mid3">
               <div class="moduletable">
