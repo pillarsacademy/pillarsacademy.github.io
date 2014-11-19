@@ -5,15 +5,14 @@
 window.addEvent('domready',function(){
   var sp_image_rotator46 = new noobSlide({
     box: $('sp-imr-items46'),
-    items:[1,2,3],
+    items: $$('#sp-imr-items46 img'),
     size: 965,
     autoPlay: true,
     interval: 5000,
-        buttons: {
+    buttons: {
       previous: $('sp-imr-prev46'),
       next: $('sp-imr-next46')
     },
-
     fxOptions: {
       duration: 1000,
       transition: Fx.Transitions.Sine.easeOut,
