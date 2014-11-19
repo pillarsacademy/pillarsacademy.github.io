@@ -2,9 +2,9 @@
 
 <div class="acymailing_module">
     <div class="acymailing_fulldiv">
-    <form action="https://script.google.com/macros/s/AKfycbyG7jQxMJECArtWIjOO_Fj-9KKVHJmXvD0lpTSNMMfM3vxmBw/exec"
-          onsubmit="return submitacymailingform('optin','formAcymailing1')"
-          method="post">
+    <form id="subscribeForm"
+          action="https://script.google.com/macros/s/AKfycbyG7jQxMJECArtWIjOO_Fj-9KKVHJmXvD0lpTSNMMfM3vxmBw/exec"
+          method="get">
       <div class="acymailing_module_form" >
           <span class="acymailing_introtext">Sign up to receive news about our upcoming events</span>
           <div class="acymailing_form">
@@ -25,11 +25,33 @@
                   </span>
               </p>
               <p class="acysubbuttons">
-                  <input class="button subbutton" type="submit" value="Subscribe" name="Submit"
-                         onclick="try{ return submitacymailingform('optin','formAcymailing1'); }catch(err){alert('The form could not be submitted '+err);return false;}" />
+                  <input class="button subbutton" type="submit" value="Subscribe" name="Submit" />
               </p>
           </div>
       </div>
     </form>
     </div>
 </div>
+
+<script>
+jQuery(document).ready(function ($) {
+  $('#subscribeForm').submit(function (event) {
+
+    // Stop form from submitting normally
+    event.preventDefault();
+
+    // Get some values from elements on the page:
+    var $form = $(this),
+        name = $form.find('input[name="name"]').val(),
+        email = $form.find('input[name="email"]').val(),
+        url = $form.attr('action') + '?' + $form.serialize();
+
+    console.log('Subscribing %s with email %s. Requesting: %s', name, email, url);
+
+    // Use an img to get around CORS
+    $('<img>')[0].src = url;
+
+    $form.html('Your subscription request is being processed. Thank you!');
+  });
+});
+</script>
