@@ -242,20 +242,20 @@ div.main-menu {
 	padding: 0;
 	width: 675px;
 	text-align: left;
+	margin: -30px 0 0;
 }
 	div.main-menu ul.menu {
 		list-style: none none outside;
-		float: right;
+		text-align: center;
 	}
 	div.main-menu li#current a span {
 		font-weight: normal;
 		color: #FFFFFF;
 	}
 	div.main-menu ul.menu li {
-		display: block;
-		float: left;
+		display: inline-block;
 		padding: 0;
-		margin: 0 0 0 8px;
+		margin: 0 0 10px 8px;
 		height: 26px;
 		width: auto;
 	}
