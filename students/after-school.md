@@ -45,16 +45,49 @@ Student’s imagination and literacy skills are developed by Literature professi
 $35 per month per child includes cost of resources and snack. 
 
 ###Arabic Language Club: Thursday & Fridays 3:30p - 4:30p
+<table>
+<tr>
+<td width="150">
+<a href="https://cloud.githubusercontent.com/assets/7043355/5806836/f50610ce-9fd1-11e4-9391-e6699031432c.jpg" target="_blank">
+<img src="https://cloud.githubusercontent.com/assets/7043355/5806836/f50610ce-9fd1-11e4-9391-e6699031432c.jpg" width="150" />  
+</a>
+</td>
+<td>
 Grades K - 2 in Group A/Grades 3 - 6 in Group B  
 Students learn to speak Arabic for communicative purposes while gaining increased understanding of Quran verses. Introduction to language, alphabet, & vowels through common words and expressions from Quran, and daily practice. Instructors Amani Abdelbaki, Assil Alsharifi, & Suzi Jubran.  
 $45 per month per child includes cost of resources and snack.
+</td>
+</tr>
+</table>
 
 ####Farsi Language Club: Thursday & Fridays  3:30p - 4:30p
+<table>
+<tr>
+<td width="150">
+<a href="https://cloud.githubusercontent.com/assets/7043355/5806866/392a896a-9fd2-11e4-8f0a-b8a1787380fd.jpg" target="_blank">
+<img src="https://cloud.githubusercontent.com/assets/7043355/5806866/392a896a-9fd2-11e4-8f0a-b8a1787380fd.jpg" width="150" />  
+</a>
+</td>
+<td>
 Grades K - 2 in Group A/Grades 3 - 6 in Group B  
 Students learn to speak Farsi for communicative purposes for practical use and establishing foundation for language. Introduction to language, alphabet, vowels through common words and expressions, and daily practice. Instructors Runa Arghandehwal & Hasina Noorzoy.  
 $45 per month per child includes cost of resources and snack.
- 
+</td>
+</tr>
+</table>
+
 ####Morning Soccer Club (Sundays) 9:00 am-10:00am
+<table>
+<tr>
+<td width="150">
+<a href="https://cloud.githubusercontent.com/assets/7043355/5806880/52d15f06-9fd2-11e4-93ee-e8efd03e5483.jpg" target="_blank">
+<img src="https://cloud.githubusercontent.com/assets/7043355/5806880/52d15f06-9fd2-11e4-93ee-e8efd03e5483.jpg" width="150" />  
+</a>
+</td>
+<td>
 All ages  
 Parents must stay; held at Alicia Park. Coached by Farid Saatchi & Mohammad Qazi.  
 Free.
+</td>
+</tr>
+</table>
