@@ -12,4 +12,4 @@ To ensure an impartial and confidential screening process, we have teamed up wit
 
 Upon completion, FAST will present your application to our Financial Aid Committee. The Committee will then determine final eligibility based on the extent of your need and the availability of funds.
 
-If you have any further questions or concerns, please call our Office Manager, Sahar Ali, at (949) 951-0442 or email <sahar@pillarsacademy.org>.
+If you have any further questions or concerns, please call our Office Manager at (949) 951-0442 or email <admissions@pillarsacademy.org>.
