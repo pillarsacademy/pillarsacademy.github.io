@@ -13,15 +13,6 @@ Our Office Manager will help you schedule an appointment:
 (949) 951-0442  
 <admissions@pillarsacademy.org>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 If you’re ready to jump right in, click [here](/admission/applications)!
 
 Download and complete the admissions application at your convenience. Applications must be submitted to the office, with a non-refundable $350 fee, at least one week prior to the starting date. Please also include a copy of your child's birth certificate and immunization card.
