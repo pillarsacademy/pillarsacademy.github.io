@@ -7,10 +7,18 @@ layout: default
 Pillars Academy is dedicated to enriching students with various after school activities. After school clubs are established per interest gauges in parent survey conducted early in the year. Clubs are lead by highly talented and dedicated professionals with skills and experience in the particular club focus. A reasonable charge for materials and resources is established by the instructor. The following after school clubs are currently being offered:
 
 ####Early Riser Robotics Club: M/Th 7:00a - 7:45a 
+<table>
+<tr>
+<td width="150">
 <img src="https://cloud.githubusercontent.com/assets/7043355/5806678/47c07630-9fd0-11e4-8d0c-df4fad5b0781.jpg" width="150" />  
+</td>
+<td>
 Grades 2 - 6  
 Introducing students to robotics: students will be enthusiastically instructed on creating simple circuits and code, by technological wizard Mohammad Qazi.  
 No fee; parents may be asked to contribute to needed resources and morning snack.
+</td>
+</tr>
+</table>
 
 ####Stagecraft Club: Tuesdays 3:15p-4:00p
 Grades K - 5  
