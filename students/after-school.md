@@ -10,7 +10,9 @@ Pillars Academy is dedicated to enriching students with various after school act
 <table>
 <tr>
 <td width="150">
+<a href="https://cloud.githubusercontent.com/assets/7043355/5806678/47c07630-9fd0-11e4-8d0c-df4fad5b0781.jpg" target="_blank">
 <img src="https://cloud.githubusercontent.com/assets/7043355/5806678/47c07630-9fd0-11e4-8d0c-df4fad5b0781.jpg" width="150" />  
+</a>
 </td>
 <td>
 Grades 2 - 6  
