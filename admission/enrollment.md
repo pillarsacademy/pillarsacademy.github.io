@@ -10,11 +10,8 @@ A personal tour can help you learn more about our programs and curriculum. It' s
 
 Our Office Manager will help you schedule an appointment:
 
-<img src="/images/stories/site-images/pic_saharali.jpg" border="0" alt="Sahar Ali" title="Sahar Ali" align="left" />
-
-Sahar Ali  
 (949) 951-0442  
-<sahar@pillarsacademy.org>
+<admissions@pillarsacademy.org>
 
 <br />
 <br />
