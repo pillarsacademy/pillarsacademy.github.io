@@ -76,10 +76,21 @@ $45 per month per child includes cost of resources and snack.
 </tr>
 </table>
 
-####Urdu Language Club: Fridays 3:30p - 4:30p  
+####Urdu Language Club: Fridays 3:30p - 4:30p 
+<table>
+<tr>
+<td width="150">
+<a href="https://cloud.githubusercontent.com/assets/7043355/5928770/77a324ca-a632-11e4-9e96-59210ff0c4e5.png" target="_blank">
+<img src="https://cloud.githubusercontent.com/assets/7043355/5928770/77a324ca-a632-11e4-9e96-59210ff0c4e5.png" width="150" />  
+</a>
+</td>
+<td>
 Grades K - 2 in Group A/Grades 3 - 6 in Group B  
 Students learn to speak Urdu for communicative purposes for practical use and establishing foundation for language. Introduction to language, alphabet, & vowels through common words and expressions from Quran, and daily practice. 
-
+$25 per month per child includes cost of resources and snack.
+</td>
+</tr>
+</table>
 ####Instrumental Music Club: Fridays 3:00p - 3:30p  
 Grades 2-5  
 Our upper elementary grades (2 – 5) will be learning musical notes and taught to play the “recorder instrument”  in preparation for playing the tune to the Pillars school song. As there isn’t enough time during the day for Mrs. Norris to teach and practice with them, they will have an end of day practice session on Fridays (3:00 – 3:30) with some of our weekend school students who have experience playing the recorder and flute in their public schools.  If your child chooses to check out the recorder to practice at home, he/she will need to turn in a $5 deposit as a way of taking responsibility for the care of the instrument.  Please keep in mind, you can opt for your child not to participate in any instrumental music activities.
