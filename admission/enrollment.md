@@ -11,7 +11,7 @@ A personal tour can help you learn more about our programs and curriculum. It' s
 Our Office Manager will help you schedule an appointment:
 
 (949) 951-0442  
-<admissions@pillarsacademy.org>
+<info@pillarsacademy.org>
 
 If you’re ready to jump right in, click [here](/admission/applications)!
 
