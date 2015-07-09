@@ -6,7 +6,7 @@ layout: default
 
 For your convenience, enrollment packets are available for download
 
-- [New Student-Elementary](/images/newstudentelementary.pdf)
+- [New Student-Elementary](https://github.com/pillarsacademy/pillarsacademy.github.io/files/635/Enrollment.Packet.Elementary.15-16.docx)
 - [New Student–Toddler and Preschool](/images/newstudentpreschool.pdf)
 - [Child Pre-Admissions History](/images/stories/documents/childpreadminhistory.pdf)
 - [Consent for Medical Treatment](/images/stories/documents/consentformedtreatment.pdf)
