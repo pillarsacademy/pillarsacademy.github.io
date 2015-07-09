@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<a href="https://github.com/pillarsacademy/pillarsacademy.github.io/files/579/PAWS.2015-16.Flier.pdf">
-  <img width="600" src="https://cloud.githubusercontent.com/assets/61224/8561447/9384591c-24da-11e5-9250-ada03a5e8c06.png" />
+<a href="![paws 2015-16](https://cloud.githubusercontent.com/assets/11180395/8606204/0398ea6e-263f-11e5-8a85-3e8e129a4bd1.jpg)
+">
+  <img width="600" src="![paws 2015-16](https://cloud.githubusercontent.com/assets/11180395/8606204/0398ea6e-263f-11e5-8a85-3e8e129a4bd1.jpg)" />
 </a>
 
 #### About
