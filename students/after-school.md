@@ -4,7 +4,7 @@ layout: default
 
 # After School Activities
 
-Pillars Academy is dedicated to enriching students with various after school activities. After school clubs are established per interest gauges in parent survey conducted early in the year. Clubs are lead by highly talented and dedicated professionals with skills and experience in the particular club focus. A reasonable charge for materials and resources is established by the instructor. The following after school clubs are currently being offered:
+Pillars Academy is dedicated to enriching students with various after school activities. Past Clubs which we hope to continue this upcoming year include:
 
 ####Early Riser Robotics Club: M/Th 7:00a - 7:45a 
 <table>
@@ -36,7 +36,7 @@ $35 per month per child.
 Grades 2 - 6  
 Scriptwriting and Performance Skills activities open to all students in January and February  
 Auditions for school play to be held in February for those who joined in January  
-Led by Sarah Hafeez & Mona Ebrahim  
+Led by Sarah Hafeez
 No fee; Parents will be asked to contribute to needed resources for play.
 
 ####Reader's Theatre: Thursdays 3:15 - 4:00p
