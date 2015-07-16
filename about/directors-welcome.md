@@ -15,5 +15,5 @@ The curriculum stresses Ihsan or excellence in Islamic Studies and core subjects
 Pillars Academy recognizes the unique position our children hold as American Muslims, and our aim is to develop their confidence in order to become leaders of society, who, above all else are God conscious. Again, I welcome you to our website. Browse around and feel free to call us at 949.951.0442 or email us at <info@pillarsacademy.org> in relation to any inquiries you may have.
 
 **Warmest Regards,**  
-Ahlam Bazzi-Moughania 
+Ahlam Bazzi-Moughania
 Director Pillars Academy
