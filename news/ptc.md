@@ -113,23 +113,3 @@ The appointment process is as follows:
 
 ####School Liason  
 - Exclusively responsible for serving as a liaison between the school and the PTC.
-
-###PTC Update 2014  
-In September, the PTC nominated officers met with several of our new families to brainstorm 2014/2015 goals and incentives in line with continued school growth! We were able to identify several lead parents for the various school wide functions the PTC hopes to continue and improve on. Monthly PTC meetings will take place every second Friday of the month at 8:15 am. Events coordinators will share progress on planning for their specific events during these meetings and seek input from the group.
-
-####PTC President Report 2012/2013  
-Pillars Academy PTC had a successful 2012/2013 school year ---all praise and thanks to Allah (SWT) and of course with great appreciation for the support of our wonderful Pillars Academy parents.
-
-The PTC was able to support the school and help make the Scholastic Book Fair successful. The PTC utilized money raised from both the Cookie Dough Fundraiser and the bake sales throughout the year to help the school through by offering monthly parenting classes and contributing to curriculum resource expenses as well as replenish PE equipment. At the end of the year, the PTC had a balance of $1900 to be transferred to the next PTC for the 2013/2014 school year.
-
-As for initiatives, the PTC organized two Movie Nights and a Family Potluck Night which was a joint effort with OCIF. The events helped create a sense of community among parents and the school. Other activities held by the PTC included the monthly parent and student lunch and the end of year Bubble Show. Additionally, the PTC also organized Teacher Appreciation Week.
-
-The PTC helped recruit and form a Year Book Committee which successfully published a Pillars Academy yearbook for the 2012/2013 school year. Further, the PTC contributed to the school monthly newsletter and maintained a PTC corner. The Corner kept parents updated about activities and events which was beneficial for parents who were not able to attend the monthly PTC meetings.
-
-Finally, the PTC strived to be a strong liaison between Pillars Academy parents and the administration by keeping an open line of communication and helping to channel all efforts towards the growth of Pillars Academy.
-
-On behalf of all officers and parents, I wish the best of luck and continued success to all our new PTC officers and members, for the year 2013-2104!
-
-Nariman Charafeddine
-PTC President
-2012/2013
