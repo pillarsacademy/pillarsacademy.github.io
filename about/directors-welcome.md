@@ -16,4 +16,5 @@ Pillars Academy recognizes the unique position our children hold as American Mus
 
 **Warmest Regards,**  
 Ahlam Bazzi-Moughania
+
 Director Pillars Academy
