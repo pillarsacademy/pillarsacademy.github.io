@@ -27,9 +27,9 @@ Memorization of the Quran and incorporating the presence of our creator in daily
 
 Pillars Academy’s preschool program is accredited by the National Association for the Education of Young Children (NAEYC).
 
-#### Prorgram Options
+#### Program Options
 
-Preschool and Pre-Kindergarten schedules include the following flexible options:
+Preschool schedules include the following flexible options:
 
 <table>
 <col width="120" />
@@ -43,8 +43,12 @@ We also offer full day and half day schedules:
 <table>
 <col width="120" />
 <tr><td>Full Day</td><td>8:00 AM - 3:00 PM</td></tr>
-<tr><td>Half Day</td><td>8:00 AM - 11:30 AM</td></tr>
+<tr><td>Half Day</td><td>8:00 AM - 12:00 AM</td></tr>
 </table>
 
+Pre-Kindergarten & Transitional Kindergarten will be offered in either full day or half day.
+
 An extended care option is also available from 3:00 PM - 6:00 PM.
+
+
 
