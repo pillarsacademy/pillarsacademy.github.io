@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Elementary K-6
+# Elementary K-5
 
 God consciousness, the pursuit and love of knowledge, and service to man are used as cornerstones to drive our curriculum. Pillars Academy's elementary program is driven by the holistic approach to education in which we address the spiritual, academic, social, and emotional needs of a child.
 
