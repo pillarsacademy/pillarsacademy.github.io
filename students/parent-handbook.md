@@ -4,4 +4,4 @@ layout: default
 
 # Parent Handbook
 
-[Download and print 2014-2015 Parent Handbook](/images/2014-2015%20parent%20handbook.pdf)
+[Download and print 2015-2016 Parent Handbook](https://github.com/pillarsacademy/pillarsacademy.github.io/files/650/2015-2016_Pillars.Academy.PS.-.Grade.5.Handbook.pdf)
