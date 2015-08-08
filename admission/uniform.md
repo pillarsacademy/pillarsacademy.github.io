@@ -11,10 +11,9 @@ At Pillars Academy we insist on instilling positive behaviors and attitudes in o
 - Boys may wear dark blue slacks or long shorts along with a light blue dress shirt or polo style shirt.
 - Girls may wear plaid uniform jumpers with a light blue blouse. They must wear either navy blue opaque tights, leggings, or pants under the jumper.
 - Navy blue cardigans with logos are required for all children in cool weather.
-- All elementary school girls will be required to have a navy blue prayer scarf which is available for $5 at the front desk.
 - All children should wear dark color socks and black or navy blue dress shoes.
-- For field trips and sports day activities, students are required to wear Pillars Academy logo shirts which are available for $10 at the front desk.
-
+- For field trips and sports day activities, students are required to wear Pillars Academy logo shirts which are available for $10 at the front office.
+- All elementary school students in First Grade and up will be required to wear a special uniform on Friday (Jum'aa): A white dress shirt with the Pillars Academy Logo embroidered on it, Burgundy tie, and Navy blue pants (or skirt for girls). Pillars Academy embroidered Dress shirts and Burgundy ties are available for purchase at the front office for $26.
 <br />
 
 #### Where to Order
