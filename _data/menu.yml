@@ -53,11 +53,13 @@
     - path: after-school
       title: "After School Activities"
     - path: themes-values
-      title: "Global Perspective Themes & Islamic Values"
+      title: "Curriculum Themes & Values"
     - path: resources
       title: "Resources"
     - path: parent-handbook
       title: "Parent Handbook"
+    - path: Supplies
+      title: "Supply List"
 - path: news
   title: "News & Events"
   banner: /templates/alridah/images/header/newsandevents.jpg
