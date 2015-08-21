@@ -1,5 +1,4 @@
 ---
-layout: event
-title: "Welcome Back! 2015-16 Pillars Academy Full-Time Students- First Day"
-when: 08.25.2015
----
+##Pillars Academy 2015-16 Students- FIRST DAY
+
+####Welcome Back Pillars Academy students!! 
