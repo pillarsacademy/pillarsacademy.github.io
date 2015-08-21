@@ -1,7 +1,7 @@
 
 ---
 layout: event
-title: "Welcome Back! 2015-16 Pillars Academy Weekend School- Saturday Families-Orientation Pancake Breakfast"
+title: "Pillars Academy Weekend School (Saturday Families) Orientation Pancake Breakfast"
 when: 08.22.2015
 ---
 
