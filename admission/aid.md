@@ -4,7 +4,7 @@ layout: default
 
 # Financial Aid
 
-At Pillars Academy we believe it is our responsibility to make sure the higher standard of education we have set forth is within reach for all families. All families K-5 are eligible for financial aid.
+At Pillars Academy we believe it is our responsibility to make sure the higher standard of education we have set forth is within reach for all families. *Please note that only families K-5 are eligible for financial aid.*
 
 To ensure an impartial and confidential screening process, we have teamed up with Financial Aid for Student Tutition (FAST). For a minimal fee of $41, FAST will collect the required information and prompt you for any supplemental documents.
 
