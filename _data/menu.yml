@@ -106,8 +106,4 @@
       title: "Fees"
     - path: registration
       title: "Registration"
-- path: PAASE
-  title: "Community After School Program"
-  banner: /templates/alridah/images/header/weekendschool.jpg
-  href:
 
