@@ -15,8 +15,8 @@
       title: "Testimonials"
     - path: directions
       title: "Directions"
-- path: learning
-  title: "Learning"
+- path: curriculum
+  title: "Curriculum"
   banner: /templates/alridah/images/header/teachinglearning.jpg
   href:
   items:
