@@ -60,6 +60,8 @@
       title: "Parent Handbook"
     - path: Supplies
       title: "Supply List"
+    - path: Calendar
+      title: "2015-16 Calendar"    
 - path: news
   title: "News & Events"
   banner: /templates/alridah/images/header/newsandevents.jpg
