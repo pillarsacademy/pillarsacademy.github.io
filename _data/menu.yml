@@ -111,9 +111,4 @@
   banner: 
   href:
   items:
-    - path: about
-      title: "About"
-    - path: fees
-      title: "Fees"
-    - path: registration
-      title: "Registration"
+ 
