@@ -16,7 +16,7 @@
     - path: directions
       title: "Directions"
 - path: learning
-  title: "learning"
+  title: "Learning"
   banner: /templates/alridah/images/header/teachinglearning.jpg
   href:
   items:
@@ -106,8 +106,8 @@
       title: "Fees"
     - path: registration
       title: "Registration"
-- path: Community-AfterSchool
-  title: "After School Activities"
+- path: after-school
+  title: "Community After School Program"
   banner: /templates/alridah/images/header/weekendschool.jpg
   href:
 
