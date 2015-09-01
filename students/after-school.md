@@ -6,13 +6,12 @@ layout: default
 
 Pillars Academy offers full-time students a loving and creative After School Care for Toddlers-PreK, and a fun and academically enriched After School Program for all school age students, Kindergarten & up.
 
-IN ADDITION to this, Pillars Academy will now be offering it's services to the community via an After-School Program with not only Tutoring & Homework Help, but Arabic, Qur'an, and Islamic Studies classes! The Program is called PAASE (Pillars Academy After School Enrichment) and will be offered Monday-Friday 3:30pm-5:30pm, for all grades Elementary-High School: 
+**IN ADDITION to this, Pillars Academy will now be offering it's services to the community via an After-School Program with not only Tutoring & Homework Help, but Arabic, Qur'an, and Islamic Studies classes!**
 
-K-2nd, 3rd-5th, 6th-8th, 9th-11th
+The Program is called **PAASE** (Pillars Academy After School Enrichment) and will be offered 
+**Monday-Friday 3:30pm-5:30pm** for all grades Elementary-High School: **K-2nd, 3rd-5th, 6th-8th, 9th-11th**
 
-3:30-5:30pm
-
-Program Options include:
+**Program Options include:**
 M/W:  $90/mo
 T/TH: $90/mo
 M-TH: $150/mo
@@ -22,7 +21,7 @@ Registration is now open for this program! It will be offered as spaces allow. C
 
 Elementary Students will be offered participation in Pillars Academy Academic Enrichment Clubs.
 
-<b> Rotating Academic Enrichment Clubs include:<b/>
+** Rotating Academic Enrichment Clubs include: **
 
 Reader's Theatre 
 Student’s imagination and literacy skills are developed by Literature professional Anna Norris. Children will be involved in reading aloud, creating their own scripts, performing with a purpose and bringing enjoyment to both themselves and their audience.  
