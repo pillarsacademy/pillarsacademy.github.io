@@ -3,4 +3,4 @@
 
 Students will be given an opportunity to secretly shop for their family during school days for Eid, and family can get in on the action during Back to School Night, September 18th 5:30p-7:00pm!
 
-Check back for flyer and details!
+<img src="https://cloud.githubusercontent.com/assets/11180395/9833650/f27d0e02-5953-11e5-9274-0d2da1080da1.jpg" width="400" />
