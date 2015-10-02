@@ -108,4 +108,10 @@
       title: "Fees"
     - path: registration
       title: "Registration"
-
+- path: after-school
+  title: "Community After School Program"
+  banner: /templates/alridah/images/header/weekendschool.jpg
+  href:
+  items:
+    - path: about
+      title: "About"
