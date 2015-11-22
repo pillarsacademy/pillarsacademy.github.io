@@ -5,8 +5,7 @@ layout: default
 
 #####Two Free Weeks and early bird registration 12/1-12/15
 
-<img width="550" src="https://cloud.githubusercontent.com/assets/11180395/11326418/18131d12-911e-11e5-9f45-667980efae42.jpg">
-
+<img width="550" src="https://cloud.githubusercontent.com/assets/11180395/11326418/18131d12-911e-11e5-9f45-667980efae42.jpg" />
 #### About
 
 Pillars Academy will now be offering it's services to the community via an After School Program with not only Tutoring & Homework Help, but Arabic, Qur'an, and Islamic Studies classes!
