@@ -3,9 +3,9 @@ layout: default
 ---
 ##Introducing PASS (Pillars After School Supplements) Community After School Program!!!
 
-#####Enroll your child or teen by October 18th for up to $25 off. No registration or required material fees.
+#####Two Free Weeks and early bird registration 12/1-12/15
 
-<img src="https://cloud.githubusercontent.com/assets/11180395/10471972/ecc993c4-71cf-11e5-8c1c-bde34c0a3ab4.jpg" width="400" />
+<img src="https://cloud.githubusercontent.com/assets/11180395/11326418/18131d12-911e-11e5-9f45-667980efae42.jpg>
 
 #### About
 
@@ -22,8 +22,8 @@ Qur'an Memorization- Qur'an Instruction
 Creative Minds- Art Club				
 Each session brings creative art projects to life!				
 				
-HH/Mastering Math				
-Math tutoring & mastering  math concepts in addition to general homework help.				
+Math Tutoring/Targeted Practice			
+Professional Math tutoring & mastering  math concepts in addition to general homework help.				
 				
 Arabic w/Qur'anic Emphasis				
 Beginning-Intermediate Arabic with emphasis on understanding the Qur'an (ie; meaning & use of grammar)				
