@@ -4,8 +4,10 @@ layout: default
 ##Introducing PASS (Pillars After School Supplements) Community After School Program!!!
 
 #####Two Free Weeks and early bird registration 12/1-12/15
+<a href="https://cloud.githubusercontent.com/assets/11180395/11326418/18131d12-911e-11e5-9f45-667980efae42.jpg">
+  <img width="300" src="https://cloud.githubusercontent.com/assets/11180395/11326418/18131d12-911e-11e5-9f45-667980efae42.jpg" />
+</a>
 
-<img width="300" src="https://cloud.githubusercontent.com/assets/11180395/11326418/18131d12-911e-11e5-9f45-667980efae42.jpg" />
 #### About
 
 Pillars Academy will now be offering it's services to the community via an After School Program with not only Professional Tutoring & Homework Help, but Arabic, Qur'an, fun Islamic Studies classes and now professional sports trainings!
@@ -25,9 +27,13 @@ Creative Minds- Art Club
 Each session brings creative art projects to life!				
 				
 Math Tutoring with Farrah Yasmin			
-Professional Math tutoring & mastering  math concepts in addition to general homework help.				
+Professional Math Tutoring
+Professional tutoring via enhancing number sense, mastering math skills, repairing missing links in concepts, and helping students better understand & familiarize themselves with Common Core.
+ 
+Math Club
+Strengthening students’ foundational math concepts to promote better understanding through fun activities and games.
 				
-Targeted Writing & Math assistance with Anna Norris
+Targeted Writing & Math tutoring with Anna Norris
 Targeted Writing & Math enrichment; Math extension using Accelerated Math.
 
 Arabic w/Qur'anic Linguistics Emphasis				
