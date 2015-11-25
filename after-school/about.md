@@ -12,11 +12,11 @@ layout: default
 
 Pillars Academy will now be offering it's services to the community via an After School Program with not only Professional Tutoring & Homework Help, but Arabic, Qur'an, fun Islamic Studies classes and now professional sports trainings!
 
-The Program is called PASS (Pillars After School Supplementals) and will be offered Monday, Tuesdays, & Friday 3:30pm-5:30pm for all grades Elementary-High School: K-2nd, 3rd-6th, 7th-12th. 
+The Program is called PASS (Pillars After School Supplementals) and will be offered Monday, Tuesdays, & Friday 3:30pm-5:00pm for all grades Elementary-High School: K-2nd, 3rd-6th, 7th-12th. 
 
 Registration is now open for this program! It will be offered as spaces allow. Call 949-951-0442 for further information or email enrollment@pillarsacademy.org!
 
-After School Classes as well as other Weekday Community Classes are as follows:
+Winter Trimester After School Classes are as follows:
 
 Sports Training with OC Prepstars Coaches:
 Basketball, Vollyball, & Soccer
