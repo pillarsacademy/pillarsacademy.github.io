@@ -5,7 +5,7 @@ layout: default
 
 #####Two Free Weeks and early bird registration 12/1-12/15
 <a href="https://cloud.githubusercontent.com/assets/11180395/11597437/8c8a614a-9a70-11e5-834e-57127ac1b57b.jpg">
-  <img width="400" src="https://cloud.githubusercontent.com/assets/11180395/11597437/8c8a614a-9a70-11e5-834e-57127ac1b57b.jpg" />
+  <img width="600" src="https://cloud.githubusercontent.com/assets/11180395/11597437/8c8a614a-9a70-11e5-834e-57127ac1b57b.jpg" />
 </a>
 
 #### About
