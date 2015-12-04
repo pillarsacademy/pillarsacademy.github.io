@@ -21,25 +21,25 @@ Winter Trimester After School Classes are as follows:
 Sports Training with OC Prepstars Coaches:
 Basketball, Vollyball, & Soccer
 
-Qur'an Memorization- Qur'an Instruction	with Salwa Ziadeh and Mohamed El Sissi			
+Qur'an Memorization- Qur'an Instruction	with Salwa Ziadeh and Amani Chalati		
 				
-Creative Minds- Art Club				
-Each session brings creative art projects to life!				
+Creative Minds- Art Club with Najma Mirza				
+Each session brings skilled and creative art projects to life! Mosaics, painting, and more!				
 				
-Math Tutoring with Farrah Yasmin			
-Professional Math Tutoring
+Professional Math Tutoring with Farrah Yasmin			
 Professional tutoring via enhancing number sense, mastering math skills, repairing missing links in concepts, and helping students better understand & familiarize themselves with Common Core.
  
-Math Club
+Math Enrichment Fun
 Strengthening students’ foundational math concepts to promote better understanding through fun activities and games.
 				
-Targeted Writing & Math tutoring with Anna Norris
+Targeted Writing & Math practice and tutoring with Anna Norris
 Targeted Writing & Math enrichment; Math extension using Accelerated Math.
 
 Arabic w/Qur'anic Linguistics Emphasis				
 Beginning-Intermediate Arabic with emphasis on understanding the Qur'an (ie; meaning & use of grammar) and morphology			
 Qur'an Alive- Drama/Mentor/Islamic Studies				
 Life lessons from parables & ayahs in the qur'an, discussed then creatively scripted & acted out				
+
 Game Changers- Islamic Studies/Life Skills/Mentor				
 Mentor leads discussions hitting home valuable life skills and Islamic guidance &inspiring community involvement.  	
 				
@@ -48,9 +48,6 @@ Beg-Intermediate Karate with Instructor Sensei Luis from United Studios of Self 
 				
 Arabic Club				
 Beginning-Intermediate Arabic with emphasis on conversational Arabic				
-				
-Islamic Studies				
-Linear Islamic Studies Instruction				
 				
 Life Skills/Planning Workshops				
 Alternating: Life skills, Islamic guidance, mentoring, college & career planning workshops, leadership/speech workshops				
