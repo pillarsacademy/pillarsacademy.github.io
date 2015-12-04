@@ -3,7 +3,12 @@ layout: default
 ---
 ##Introducing PASS (Pillars After School Supplements) Community After School Program!!!
 
-#####Two Free Weeks and early bird registration 12/1-12/15
+#####Two Free Weeks and early bird registration 12/4-12/15
+Register online or in the Pillars Office before 12/31/15 to receive early bird disounts. Enrollment for program as low as $90/month!
+<a href="https://campsself.active.com/PillarsAcademy">
+  < src="https://campsself.active.com/PillarsAcademy" />
+</a>
+
 <a href="https://cloud.githubusercontent.com/assets/11180395/11597437/8c8a614a-9a70-11e5-834e-57127ac1b57b.jpg">
   <img width="600" src="https://cloud.githubusercontent.com/assets/11180395/11597437/8c8a614a-9a70-11e5-834e-57127ac1b57b.jpg" />
 </a>
