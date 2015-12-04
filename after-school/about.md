@@ -4,8 +4,8 @@ layout: default
 ##Introducing PASS (Pillars After School Supplements) Community After School Program!!!
 
 #####Two Free Weeks and early bird registration 12/1-12/15
-<a href="https://cloud.githubusercontent.com/assets/11180395/11326418/18131d12-911e-11e5-9f45-667980efae42.jpg">
-  <img width="300" src="https://cloud.githubusercontent.com/assets/11180395/11326418/18131d12-911e-11e5-9f45-667980efae42.jpg" />
+<a href="https://cloud.githubusercontent.com/assets/11180395/11597437/8c8a614a-9a70-11e5-834e-57127ac1b57b.jpg">
+  <img width="400" src="https://cloud.githubusercontent.com/assets/11180395/11597437/8c8a614a-9a70-11e5-834e-57127ac1b57b.jpg" />
 </a>
 
 #### About
