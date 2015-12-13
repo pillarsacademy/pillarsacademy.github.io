@@ -8,8 +8,8 @@ layout: default
 Register online or in the Pillars Office before 12/31/15 to receive early bird disounts. Enrollment for program as low as $90/month!
 <link rel="stylesheet" type="text/css" media="all" href="https://emarketing.activenetwork.com/res/button/css/button-v4.css" /><table><tbody><tr><td><div id="btn_div" class="btn-g201"><ul><li><a id="btn_lnk" href="https://campscui.active.com/orgs/PillarsAcademy" target="_blank"><span id="btn_txt">Register Now</span></a></li></ul></div></td></tr><tr><td nowrap=""><div id="btn_foot">by <a href="http://www.activenetwork.com" target="_blank" title="Online Registration, Marketing and Event Management Software">ACTIVE Network</a></div></td></tr></tbody></table>
 
-<a href="https://cloud.githubusercontent.com/assets/11180395/11597437/8c8a614a-9a70-11e5-834e-57127ac1b57b.jpg">
-  <img width="600" src="https://cloud.githubusercontent.com/assets/11180395/11597437/8c8a614a-9a70-11e5-834e-57127ac1b57b.jpg" />
+<a href="https://cloud.githubusercontent.com/assets/11180395/11768153/d52456fe-a178-11e5-9077-9da6832a87f5.jpg">
+  <img width="600" src="https://cloud.githubusercontent.com/assets/11180395/11768153/d52456fe-a178-11e5-9077-9da6832a87f5.jpg" />
 </a>
 
 #### About
