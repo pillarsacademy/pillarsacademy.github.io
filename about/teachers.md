@@ -1,14 +1,29 @@
-Meet Pillars Academy's fine teachers!
+##Meet Pillars Academy's fine teachers!
 
-Toddler Care- Runa Arghandewal
-Preschool Lead- Soheila Behzadnieh
-Preschool Asst.- Bushra Assaf
-Toddler/Preschool/PreK Qur'an/Arabic- Faeiza Hadi
-Pre-Kindergarten Lead- Niran Ibrahim
-Pre-Kindergarten Asst- Hasina Noorzoy
-Transitional Kindergarten/KG/1st Language Arts/Social Studies- Megan Webb
-Transitional Kindergarten/KG/1st Math/Science- Farrah Yasmin
-Transitional Kindergarten/KG/1st Islamic Studies/Arabic/Qur'an- Amani Abdulbaki-Chalati
-2nd/3rd Grade Core Subjects- Anna Norris
-2nd/3rd Grade Qur'an/Islamic Studies- Salwa Ziadeh
-2nd/3rd Grade Arabic/Art- Assil Al Sharifi
+###Toddler
+Lead: Runa Arghandewal
+Arabic: Faeiza Hadi
+
+###Preschool 
+Lead: Soheila Behzadnieh
+Arabic & Asst.- Bushra Assaf
+Qur'an/Islamic Studies: Faeiza Hadi
+
+###Pre-Kindergarten 
+Lead:- Niran Ibrahim
+Asst: Hasina Noorzoy
+Qur'an/Islamic Studies: Salwa Ziadeh
+
+###Transitional Kindergarten/Kindergarten
+Language Arts/Social Science: HiIary Levine
+Math/Science- Farrah Yasmin
+Islamic Studies/Arabic/Qur'an- Amani Chalati
+
+###First Grade
+Core Subjects: Megan Webb
+Islamic Studies/Arabic/Qur'an- Amani Chalati
+
+###2nd/3rd Grade 
+Core Subjects- Anna Norris
+Qur'an/Islamic Studies- Salwa Ziadeh
+Arabic- Assil Al Sharifi
