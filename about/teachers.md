@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ##Meet Pillars Academy's fine teachers!
 
 ###Toddler
