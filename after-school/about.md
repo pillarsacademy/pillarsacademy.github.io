@@ -45,6 +45,7 @@ Learning Arabic and fortifying it with Art
 ###Mondays or Fridays 3:30-5pm
 ####Sports: Basketball or Soccer Training with OC Prepstars Coach Sassan Paneh
 
+##3rd-6th Grade 
 ###Mondays 3:30pm-5:30pm
 ####Qur'an Recitation & Memorization
 Qur'an Instruction with Salwa Ziadeh
@@ -60,7 +61,7 @@ Targeted Writing & Math enrichment; Math extension using Accelerated Math.
 Life lessons from parables & ayahs in the qur'an, discussed then creatively scripted & acted out, then recorded!	
 
 ###M, W, F 3:30-5pm
-S####ports: Basketball, or Soccer Training with OC Prepstars Coach Sassan Paneh; Girls Volleyball with OC Prepstars Coach
+####Sports: Basketball, or Soccer Training with OC Prepstars Coach Sassan Paneh; Girls Volleyball with OC Prepstars Coach
 
 ##7th-12th Grade 
 ###Monday 3:30-5:30pm 
@@ -99,4 +100,4 @@ Beg-Intermediate Karate with Instructor Sensei Luis from United Studios of Self 
 ####Fridays 3:45pm-4:45pm
 All levels Karate with Instructor Sensei Luis from United Studios of Self Defense; additional skills like nunchucks training available. Call Pillars Academy 949-951-0442 to sign up.
 
-###Piano available based on request.
+###Piano available based on enough interest.
