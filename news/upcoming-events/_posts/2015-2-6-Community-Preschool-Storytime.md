@@ -4,7 +4,7 @@
 
 Check out Pillars' Mommy and Me program as well!
 
-<img src="https://cloud.githubusercontent.com/assets/11180395/10471975/ef4de85c-71cf-11e5-9600-34afce4a6804.jpg" width="950" />
+<img src="https://cloud.githubusercontent.com/assets/11180395/11789963/3be87b88-a24e-11e5-8aed-c8e171580306.jpg" width="950" />
 
 
 
