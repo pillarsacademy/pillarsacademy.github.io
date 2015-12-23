@@ -4,13 +4,14 @@ layout: default
 
 # Parent Teacher Council
 
-Monthly PTC meetings will take place every 1st Monday of the month at 8:15am. Please come and participate!
+Monthly PTC meetings will take place every 3rd Tuesday of the month at 8:00am. Please come and participate!
 
-To view planned events, see the school calendar: http://www.pillarsacademy.org/students/Calendar/
+To view planned events, see the school calendar: <href="http://www.pillarsacademy.org/students/Calendar/> </href>
 
 ####Mission
 The Parent Teacher Council (PTC) is a volunteer arm of Pillars Academy established to support the school’s goals and create an environment that will be nurturing and uplifting for all.
-Purpose
+
+###Purpose
 
 ####The purpose of the Pillars Academy PTC is to:
 1. Support the mission, vision, and philosophy of the school  
