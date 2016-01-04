@@ -41,7 +41,7 @@ Pillars’ Compassion Bulletin Board in OCIF Masjid</center>
 
 <center>Ahlam Moughania, Director of Pillars Academy</center>
 
-<center> [Make your contribution today] (http://www.pillarsacademy.org/give/donate/) and include your contact information or reach out to our Marketing/Outreach coordinator, Mona Ebrahim for more information!  949-951-0442 x107 or email <mona.ebrahim@pillarsacademy.org></center>
+<center> [Make your contribution today] (http://www.pillarsacademy.org/give/donate/) and note your contact number and email for follow up or reach out to our Marketing/Outreach coordinator, Mona Ebrahim for more information!  949-951-0442 x107 or email <mona.ebrahim@pillarsacademy.org></center>
 
 ####What it means to be a Sponsoring Partner in Compassion
 
