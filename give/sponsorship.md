@@ -12,7 +12,7 @@ layout: default
 Academy Website- 10 Months  
 Monthly Newsletter*- 10 months  
 Pillars' Compassion Bulletin Board in OCIF Masjid  
-2015 Annual Banquet Display Materials</center>  
+2016 Annual Banquet Program & Display Materials</center>  
 
 ###<center>$1000 Sponsorship  
 <center>*Your Name or Business/Company Logo will be displayed on:*  
@@ -31,7 +31,7 @@ Pillars’ Compassion Bulletin Board in OCIF Masjid</center>
 Academy Website- 2 Months  
 Pillars’ Compassion Bulletin Board in OCIF Masjid</center>  
 
-<center>*Newsletter is sent out via email & multiple social media outlets</center>
+<center>*Our Video Newsletter is sent out via email, multiple social media outlets, and posted on Youtube</center>
 
 ###<center>Sponsorship via Donations of Any Amount or Donations of Products or Services</center>
 
@@ -41,12 +41,11 @@ Pillars’ Compassion Bulletin Board in OCIF Masjid</center>
 
 <center>Ahlam Moughania, Director of Pillars Academy</center>
 
-<center>Contact me: **T** 949-951-0442, or <director@pillarsacademy.org></center>
+<center> [Make your contribution today] (http://www.pillarsacademy.org/give/donate/) and include your contact information or reach out to our Marketing/Outreach coordinator, Mona Ebrahim for more information!  949-951-0442 x107 or email <mona.ebrahim@pillarsacademy.org></center>
 
 ####What it means to be a Sponsoring Partner in Compassion
 
 The only way we can lead **positive change** is through **education**, and that education begins with children. Pillars Academy is a **non-profit school** committed to nurturing students to **model compassion** in school, at home, and within the community. **Conflict resolution skills, empathy and understanding** are the center of our students' learning. We believe that we can **improve the world** by raising generations of **socially responsible** and compassionate people. We believe we can shape and **shift back** the **true meaning** and understanding of Islam by **leading compassion** through **human interaction, self-accountability**, and ultimately **open-mindedness**.
 
 
-
-If you identify with our endeavors for leading compassion, please [contact us](www.pillarsacademy.org) about your tax-deductible Sponsorship Selection today!
+If you identify with our endeavors for leading compassion, please [contact us](mona.ebrahim@pillarsacademy.org) about your tax-deductible Sponsorship Selection today!
