@@ -1,6 +1,6 @@
-##Beginning 1/5 on Tuesday mornings: Yoga for Ladies and Mommy & Me Yoga!!
+##Beginning 1/5 on Tuesday & Thursday mornings: Yoga for Ladies and Mommy & Me Yoga!!
 
-Tuesdays, 8:15 am-9 am Ladies' Yoga Class (in Women's Musalla)
+Tuesdays & Thursdays, 8:15 am-9 am Ladies' Yoga Class (in Women's Musalla)
 
 Tuesdays, 9:15 am-10am Mommy & Me Yoga Class (in Pillars MPR )
 
