@@ -52,8 +52,6 @@
   banner: /templates/alridah/images/header/studentinfo.jpg
   href:
   items:
-     - path: Calendar
-      title: "2015-16 Calendar"
     - path: themes-values
       title: "Curriculum Themes & Values"
     - path: parent-handbook
@@ -68,12 +66,14 @@
   banner: /templates/alridah/images/header/newsandevents.jpg
   href: https://www.facebook.com/PillarsAcademy
   items:
+    - path: Calendar
+      title: "2015-16 Calendar"
     - path: upcoming-events
       title: "Upcoming Events"
-     - path: photos
+   - path: photos
       title: "Photos"
-    - path: newsletter
-      title: "Videos & Newsletter"
+    - path: videos
+      title: "Videos & News"
     - path: ptc
       title: "PTC Corner"
 - path: give
@@ -81,7 +81,7 @@
   banner: /templates/alridah/images/header/give.jpg
   href:
   items:
-     - path: donate
+   - path: donate
       title: "Give"
     - path: ways-to-give
       title: "Ways to Give"
