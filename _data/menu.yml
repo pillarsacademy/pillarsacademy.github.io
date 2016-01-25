@@ -52,18 +52,17 @@
   banner: /templates/alridah/images/header/studentinfo.jpg
   href:
   items:
-    - path: after-school
-      title: "After School Activities"
+     - path: Calendar
+      title: "2015-16 Calendar"
     - path: themes-values
       title: "Curriculum Themes & Values"
-    - path: resources
-      title: "Resources"
     - path: parent-handbook
       title: "Parent Handbook"
     - path: Supplies
       title: "Supply List"
-    - path: Calendar
-      title: "2015-16 Calendar"    
+   - path: after-school
+      title: "After School Activities"
+    
 - path: news
   title: "News & Events"
   banner: /templates/alridah/images/header/newsandevents.jpg
@@ -71,23 +70,23 @@
   items:
     - path: upcoming-events
       title: "Upcoming Events"
+     - path: photos
+      title: "Photos"
     - path: newsletter
-      title: "Newsletter"
+      title: "Videos & Newsletter"
     - path: ptc
       title: "PTC Corner"
-    - path: photos
-      title: "Photos"
 - path: give
   title: "Give"
   banner: /templates/alridah/images/header/give.jpg
   href:
   items:
+     - path: donate
+      title: "Give"
     - path: ways-to-give
       title: "Ways to Give"
     - path: sponsorship
       title: "Sponsorship Packages"
-    - path: donate
-      title: "Give"
 - path: charter-for-compassion
   title: "Charter for Compassion"
   banner: /templates/alridah/images/header/Charter-of-Compassion.jpg
