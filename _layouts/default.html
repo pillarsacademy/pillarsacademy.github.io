@@ -79,63 +79,51 @@
           {% include subnav.html paths=paths %}
         {% endunless %}
 
-                </div>
-
-        <div id="ma-containerwrap" class="clearfix">
-          <div id="ma-right">
-                            <div class="moduletable">
-          <p><a href="http://www.youtube.com/watch?v=ZTg6d59JvJc" mce_href="http://www.youtube.com/watch?v=ZTg6d59JvJc" target="_blank" style=""><img src="/images/stories/site-images/title_video.jpg" mce_src="/images/stories/site-images/title_video.jpg" mce_style="border: 0px;" style="border: 0px;"></a></p><p><br></p>    </div>
-      <div class="moduletable-highlighter">
-                </div>        
-               <div id="ma-containerwrap" class="clearfix">
-          <div id="ma-right">
-                            <div class="moduletable">
-          <p><a href="https://www.youtube.com/watch?v=8i6xtWc7i-U" mce_href="https://www.youtube.com/watch?v=8i6xtWc7i-U" target="_blank" style=""><img src="/images/stories/site-images/title_video.jpg" mce_src="/images/stories/site-images/title_video.jpg" mce_style="border: 0px;" style="border: 0px;"></a></p><p><br></p>    </div>
-      <div class="moduletable-highlighter">
-                 </div>       
-          <h3>Testimonials</h3>
-
-<div class="gk_news_highlighter" id="news-highlight-1">
-  <div class="gk_news_highlighter_wrapper">
-    {% for testimonial in site.data.testimonials %}
-      <div class="gk_news_highlighter_item">
-        <span class="gk_news_highlighter_title">&quot;{{ testimonial }}&quot;</span>
       </div>
-    {% endfor %}
-  </div>
-</div>
 
-    </div>
+      <div id="ma-containerwrap" class="clearfix">
+        <div id="ma-right">
+          <div class="moduletable">
+            <p>
+              <a href="http://www.youtube.com/watch?v=ZTg6d59JvJc" target="_blank">
+                <img src="/images/stories/site-images/title_video.jpg" style="border: 0px;">
+              </a>
+            </p>
+            <p>
+              <a href="https://www.youtube.com/watch?v=8i6xtWc7i-U" target="_blank">
+                <img src="/images/stories/site-images/title_video.jpg" style="border: 0px;">
+              </a>
+            </p>
+            <p><br></p>
+          </div>
 
-                      </div>
-
-          <div id="ma-contentbody">
-                  <div {% if home %}class="moduletable"{% else %}id="page"{% endif %}>
-          {{ content }}
-
-            </div>
-
-          {% if home %}
-            {% unless paths[1] %}
-              {% include events.html %}
-            {% endunless %}
-          {% endif %}
-
-            <!-- System Message goes here -->
-
-            <!-- SITE TEXT GOES HERE -->
-
-
-<div class="blog">
-
-
-
-
-  </div>
-
+        <h3>Testimonials</h3>
+        <div class="gk_news_highlighter" id="news-highlight-1">
+          <div class="gk_news_highlighter_wrapper">
+            {% for testimonial in site.data.testimonials %}
+              <div class="gk_news_highlighter_item">
+                <span class="gk_news_highlighter_title">&quot;{{ testimonial }}&quot;</span>
+              </div>
+            {% endfor %}
+          </div>
         </div>
       </div>
+
+      <div id="ma-contentbody">
+        <div {% if home %}class="moduletable"{% else %}id="page"{% endif %}>
+          {{ content }}
+        </div>
+
+        {% if home %}
+          {% unless paths[1] %}
+            {% include events.html %}
+          {% endunless %}
+        {% endif %}
+
+      </div>
+
     </div>
+  </div>
 
     <div id="ma-footerwrap" class="clearfix">
       <div id="ma-footer" class="clearfix">
