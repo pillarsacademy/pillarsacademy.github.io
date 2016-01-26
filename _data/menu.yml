@@ -64,7 +64,7 @@
 - path: news
   title: "News & Events"
   banner: /templates/alridah/images/header/newsandevents.jpg
-  href: https://www.facebook.com/PillarsAcademy
+  href: 
   items:
     - path: Calendar
       title: "2015-16 Calendar"
@@ -72,9 +72,9 @@
       title: "Upcoming Events"
    - path: photos
       title: "Photos"
-    - path: videos
+   - path: videos
       title: "Videos & News"
-    - path: ptc
+   - path: ptc
       title: "PTC Corner"
 - path: give
   title: "Give"
