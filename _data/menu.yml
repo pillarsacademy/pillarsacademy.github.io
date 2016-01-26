@@ -58,30 +58,29 @@
       title: "Parent Handbook"
     - path: Supplies
       title: "Supply List"
-   - path: after-school
+    - path: after-school
       title: "After School Activities"
-    
 - path: news
   title: "News & Events"
   banner: /templates/alridah/images/header/newsandevents.jpg
-  href: 
+  href:
   items:
     - path: Calendar
       title: "2015-16 Calendar"
     - path: upcoming-events
       title: "Upcoming Events"
-   - path: photos
+    - path: photos
       title: "Photos"
-   - path: videos
+    - path: videos
       title: "Videos & News"
-   - path: ptc
+    - path: ptc
       title: "PTC Corner"
 - path: give
   title: "Give"
   banner: /templates/alridah/images/header/give.jpg
   href:
   items:
-   - path: donate
+    - path: donate
       title: "Give"
     - path: ways-to-give
       title: "Ways to Give"
