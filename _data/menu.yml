@@ -65,6 +65,8 @@
   banner: /templates/alridah/images/header/newsandevents.jpg
   href:
   items:
+    - path: calendar
+      title: "Calendar"
     - path: upcoming-events
       title: "Upcoming Events"
     - path: photos
