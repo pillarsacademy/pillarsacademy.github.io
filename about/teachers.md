@@ -82,7 +82,8 @@ I have a B.S. degree in Electrical Engineering. I continued my education and too
 ###Hasina Noorzoy 
 I am one of the Pre K Teacher's Assistants. I have a AA degree in Liberal Studies from Santiago Canyon College and my Bachelors from Cal State Long Beach. I am still continuing my education in Human Development In Sha Allah. I had the privilege with working with the children at Pillars Academy last school year and I am excited for the upcoming school year to watch the children develop and grow In Sha Allah. What I enjoy the most at Pillars Academy is the loving and caring atmosphere Ma Sha Alllah. 
 
-###Megan Elizabeth Webb and I will be co-teaching Kindergarten and First Grade. I have a Multiple Subject Teaching Credential and a Masters in Education from Pepperdine University. This is my third year at Pillars Academy.  I am so grateful to have the opportunity to teach in such a warm and caring school and look forward learning more about you! As for myself, I enjoy reading, watching cooking shows, and spending time in nature.
+###Megan Elizabeth Webb 
+I teach the First Grade, and co-teach TK & Kindergarten. I have a Multiple Subject Teaching Credential and a Masters in Education from Pepperdine University. This is my third year at Pillars Academy.  I am so grateful to have the opportunity to teach in such a warm and caring school and look forward learning more about you! As for myself, I enjoy reading, watching cooking shows, and spending time in nature.
 
 ###Anna Norris
 I have had the pleasure of working at Pillars Academy for the past seven years as an elementary teacher. I have a Clear California Teaching Credential and a Master of Arts in Teaching from the University of California, Irvine. I am currently working on a Master of Science in Curriculum and Instruction at Cal State Fullerton. I am an avid reader and I love to share my love of reading and writing with students across the subject areas.
