@@ -16,4 +16,3 @@ The structure of the Committee is designed to enable members to individually and
 - Hana Abulaban
 - Noureddine Harche
 - Mohammad Adawiya
-- Reza Khanjan
