@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-# 2015-16 Photo Albums
-## [Check out all of what's been going on this year here] (https://www.facebook.com/PillarsAcademy/photos_stream)
+# [2015-16 Photo Albums](https://www.facebook.com/PillarsAcademy/photos_stream)
 # 2014-15 Photo Albums
  -- [Quran Competition 2014](https://www.facebook.com/media/set/?set=a.625968057491486.1073741841.116191751802455)		
  -- [Pillars Academy Annual Banquet 2014](https://www.facebook.com/media/set/?set=a.601134136641545.1073741840.116191751802455&type=3)		
