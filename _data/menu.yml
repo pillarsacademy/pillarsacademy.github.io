@@ -61,7 +61,7 @@
     - path: after-school
       title: "After School Activities"
 - path: news
-  title: "News & Events"
+  title: "Calendar & Gallery"
   banner: /templates/alridah/images/header/newsandevents.jpg
   href:
   items:
