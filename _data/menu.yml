@@ -7,18 +7,18 @@
       title: "Mission & Vision"
     - path: directors-welcome
       title: "Director's Welcome"
-    - path: teachers
-      title: "Teachers"
     - path: board-of-trustees
       title: "Board of Trustees"
-    - path: faqs
-      title: "FAQs"
+    - path: teachers
+      title: "Staff"
     - path: testimonials
       title: "Testimonials"
     - path: directions
       title: "Directions"
+    - path: faqs
+      title: "FAQs"
 - path: learning
-  title: "Learning"
+  title: "Curriculum"
   banner: /templates/alridah/images/header/teachinglearning.jpg
   href:
   items:
@@ -32,6 +32,8 @@
       title: "Religious Studies"
     - path: leadership
       title: "Leadership Program"
+    - path: themes-values
+      title: "Curriculum Themes & Values"
 - path: admission
   title: "Admission"
   banner: /templates/alridah/images/header/admission.jpg
@@ -47,34 +49,34 @@
       title: "Financial Aid"
     - path: uniform
       title: "Uniform"
+    - path: Supplies
+      title: "Supply List"
 - path: students
-  title: "Student Info"
+  title: "Calendar & Student Info"
   banner: /templates/alridah/images/header/studentinfo.jpg
   href:
   items:
-    - path: themes-values
-      title: "Curriculum Themes & Values"
+    - path: upcoming-events
+      title: "Upcoming Events"
+    - path: calendar
+      title: "Calendar"
     - path: parent-handbook
       title: "Parent Handbook"
-    - path: Supplies
-      title: "Supply List"
     - path: after-school
       title: "After School Activities"
+    - path: ptc
+      title: "PTC Corner"     
 - path: news
-  title: "Calendar & Gallery"
+  title: "Gallery & Sponsors in Compassion"
   banner: /templates/alridah/images/header/newsandevents.jpg
   href:
   items:
-    - path: calendar
-      title: "Calendar"
-    - path: upcoming-events
-      title: "Upcoming Events"
     - path: photos
       title: "Photos"
     - path: videos
       title: "Videos & News"
-    - path: ptc
-      title: "PTC Corner"
+    - path: partners-in-compassion
+      title: "Partners in Compassion"
 - path: give
   title: "Give"
   banner: /templates/alridah/images/header/give.jpg
@@ -95,8 +97,6 @@
       title: "Partner with the Charter of Compassion"
     - path: games-week
       title: "Compassion Games Week"
-    - path: partners-in-compassion
-      title: "Partners in Compassion"
 - path: weekend-school
   title: "Weekend School"
   banner: /templates/alridah/images/header/weekendschool.jpg
