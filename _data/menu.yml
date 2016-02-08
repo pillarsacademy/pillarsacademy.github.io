@@ -65,18 +65,7 @@
     - path: after-school
       title: "After School Activities"
     - path: ptc
-      title: "PTC Corner"     
-- path: news
-  title: "Gallery & Sponsors in Compassion"
-  banner: /templates/alridah/images/header/newsandevents.jpg
-  href:
-  items:
-    - path: photos
-      title: "Photos"
-    - path: videos
-      title: "Videos & News"
-    - path: partners-in-compassion
-      title: "Partners in Compassion"
+      title: "PTC Corner"   
 - path: give
   title: "Give"
   banner: /templates/alridah/images/header/give.jpg
@@ -88,6 +77,17 @@
       title: "Ways to Give"
     - path: sponsorship
       title: "Sponsorship Packages"
+- path: news
+  title: "Gallery & Sponsors"
+  banner: /templates/alridah/images/header/newsandevents.jpg
+  href:
+  items:
+    - path: photos
+      title: "Photos"
+    - path: videos
+      title: "Videos & News"
+    - path: partners-in-compassion
+      title: "Partners in Compassion"
 - path: charter-for-compassion
   title: "Charter for Compassion"
   banner: /templates/alridah/images/header/Charter-of-Compassion.jpg
