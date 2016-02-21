@@ -115,3 +115,4 @@
   items:
     - path: about
       title: "About"
+    - path: hidden
