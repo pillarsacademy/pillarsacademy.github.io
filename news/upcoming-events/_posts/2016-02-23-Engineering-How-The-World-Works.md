@@ -1,2 +1,2 @@
-###February 23rd, Tuesday, 11am-12pm Engineering How the World Works Program
-Come visit your children's classrooms and presentation displays to enjoy engineering projects and reflections on how things and therefore the world works! Parents will be showcasing to students what they do for a living and how it contributes to the functions of society!
+###March 25th, Friday, 4pm-6:30pm Open House & Qur'an Competition
+Come visit Pillars Academy for an in-depth look at the school & attend the annual Qur'an Competition which is always an exciting and close match!
