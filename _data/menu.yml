@@ -49,8 +49,6 @@
       title: "Financial Aid"
     - path: uniform
       title: "Uniform"
-    - path: Supplies
-      title: "Supply List"
 - path: students
   title: "Calendar & Student Info"
   banner: /templates/alridah/images/header/studentinfo.jpg
@@ -60,7 +58,9 @@
       title: "Parent Handbook"
     - path: after-school
       title: "After School Activities"
-    - path: ptc
+     - path: Supplies
+      title: "Supply List"
+     - path: ptc
       title: "PTC Corner"   
 - path: give
   title: "Give"
