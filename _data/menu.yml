@@ -58,10 +58,6 @@
   items:
     - path: parent-handbook
       title: "Parent Handbook"
-    - path: upcoming-events
-      title: "Upcoming Events"
-    - path: calendar
-      title: "Calendar"
     - path: after-school
       title: "After School Activities"
     - path: ptc
@@ -86,8 +82,10 @@
       title: "Photos"
     - path: videos
       title: "Videos & News"
-    - path: partners-in-compassion
-      title: "Partners in Compassion"
+    - path: upcoming-events
+      title: "Upcoming Events"
+    - path: calendar
+      title: "Calendar"
 - path: charter-for-compassion
   title: "Charter for Compassion"
   banner: /templates/alridah/images/header/Charter-of-Compassion.jpg
@@ -97,6 +95,8 @@
       title: "Partner with the Charter of Compassion"
     - path: games-week
       title: "Compassion Games Week"
+    - path: partners-in-compassion
+      title: "Partners in Compassion"
 - path: weekend-school
   title: "Weekend School"
   banner: /templates/alridah/images/header/weekendschool.jpg
@@ -115,4 +115,3 @@
   items:
     - path: about
       title: "About"
-    - path: hidden
