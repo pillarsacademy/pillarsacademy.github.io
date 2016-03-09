@@ -56,12 +56,12 @@
   banner: /templates/alridah/images/header/studentinfo.jpg
   href:
   items:
+    - path: parent-handbook
+      title: "Parent Handbook"
     - path: upcoming-events
       title: "Upcoming Events"
     - path: calendar
       title: "Calendar"
-    - path: parent-handbook
-      title: "Parent Handbook"
     - path: after-school
       title: "After School Activities"
     - path: ptc
