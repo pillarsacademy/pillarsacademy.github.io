@@ -18,7 +18,7 @@
     - path: faqs
       title: "FAQs"
 - path: learning
-  title: "Curriculum"
+  title: "Education"
   banner: /templates/alridah/images/header/teachinglearning.jpg
   href:
   items:
@@ -32,8 +32,6 @@
       title: "Religious Studies"
     - path: leadership
       title: "Leadership Program"
-    - path: themes-values
-      title: "Curriculum Themes & Values"
 - path: admission
   title: "Admission"
   banner: /templates/alridah/images/header/admission.jpg
@@ -50,18 +48,20 @@
     - path: uniform
       title: "Uniform"
 - path: students
-  title: "Calendar & Student Info"
+  title: "Parent/Student Info"
   banner: /templates/alridah/images/header/studentinfo.jpg
   href:
   items:
     - path: parent-handbook
       title: "Parent Handbook"
-    - path: after-school
-      title: "After School Activities"
      - path: Supplies
       title: "Supply List"
      - path: ptc
-      title: "PTC Corner"   
+      title: "PTC Corner" 
+     - path: themes-values
+      title: "Curriculum Themes & Values"
+     - path: after-school
+      title: "After School Activities"
 - path: give
   title: "Give"
   banner: /templates/alridah/images/header/give.jpg
