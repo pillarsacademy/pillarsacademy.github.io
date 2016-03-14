@@ -3,9 +3,9 @@ layout: default
 ---
 <b>Meet Pillars Academy's fine staff...</b>
 
-PILLARS ACADEMY PRESCHOOL
+<b>PILLARS ACADEMY PRESCHOOL</b>
 
-Preschool Director: Zubeda Kazi
+<b>Preschool Director:</b> Zubeda Kazi
 
 <b>Toddler Class</b>
 
@@ -32,9 +32,9 @@ Language Arts/Social Science: Hilary Levine
 Math/Science: Farrah Yasmin
 Islamic Studies/Arabic/Qur'an: Amani Chalati
 
-PILLARS ACADEMY ELEMENTARY
+<b>PILLARS ACADEMY ELEMENTARY</b>
 
-<b>Curriculum Coordinator: Anna Norris</b>
+<b>Curriculum Coordinator:</b> Anna Norris
 
 <b>First Grade</b>
 
