@@ -6,20 +6,22 @@ layout: default
 <b>PILLARS ACADEMY PRESCHOOL</b>
 
 <b>Preschool Director:</b> Zubeda Kazi
-
 <img src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" width="100"  mce_style="float: right; border: 0px;" style="float: right; border: 0px;">
 
 <b>Toddler Class</b>
 
-Lead: Runa Arghandewal
+Toddler Class Lead: Runa Arghandewal
+
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg" />
 </a>
-Asst: Hasina Noorzoy
+Toddler Class Asst: Hasina Noorzoy
+
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg" />
 </a>
-Arabic Language & Islam: Faeiza Hadi
+Toddler Class Arabic Language & Islam: Faeiza Hadi
+
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg" />
 </a>
