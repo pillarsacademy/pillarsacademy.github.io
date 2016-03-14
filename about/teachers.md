@@ -1,4 +1,7 @@
-Meet Pillars Academy's fine staff...
+---
+layout: default
+---
+<b>Meet Pillars Academy's fine staff...</b>
 
 <b><u>Pillars Academy Preschool</b></u>
 <b>Preschool Director: Zubeda Kazi
