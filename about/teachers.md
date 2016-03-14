@@ -6,9 +6,7 @@ layout: default
 <b>PILLARS ACADEMY PRESCHOOL</b>
 
 <b>Preschool Director:</b> Zubeda Kazi
-<a href="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg">
-  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" />
-</a>
+<img src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" mce_src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" alt="Zubeda Kazi, Pillars Academy Preschool Director" title="Zubeda Kazi, Pillars Academy Preschool Director" width="150" height="142" mce_style="float: right; border: 0px;" style="float: right; border: 0px;">
 
 <b>Toddler Class</b>
 
@@ -67,6 +65,10 @@ Mona Ebrahim
 
 ###Get to know our staff...
 
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" />
+</a>
 ####Zubeda Kazi
 I have been teaching for fifteen years and have been the Preschool Director for five years at NAEYC accredited Pillars Academy.  I have a Bachelors degree in Early Childhood Education, Certificate of Proficiency in Computer Science, and the Preschool Director Permit from Commission on Teacher Credentialing. 
 
