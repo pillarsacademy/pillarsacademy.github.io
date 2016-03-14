@@ -5,19 +5,25 @@ layout: default
 
 <b>PILLARS ACADEMY PRESCHOOL</b>
 
-<b>Preschool Director:</b> 
-
+<b>Preschool Director:</b> Zubeda Kazi
 <a href="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" />
 </a>
 
-Zubeda Kazi
-
 <b>Toddler Class</b>
 
 Lead: Runa Arghandewal
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg" />
+</a>
 Asst: Hasina Noorzoy
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg" />
+</a>
 Arabic Language & Islam: Faeiza Hadi
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg" />
+</a>
 
 <b>Preschool</b>
 
@@ -85,9 +91,7 @@ I was born and raised in Baghdad, Iraq, have been married for twenty six years, 
 ####Bushra Assaf
 I have a B.A. in Libraries science, and I have taken my Child Development courses at Saddleback College. I have been working at Pillars Academy since 2013. My passion is teaching and watching children learn and grow. I look forward to getting to know your child, and creating a well-balanced and nurturing classroom where children can feel comfortable to explore and create. I’m proud to be a part of the Pillars Academy Family. I am married with two great kids.
 
-<a href="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg">
-  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg" />
-</a>
+
 ####Runa Arghandehwal
 I majored in economics and general mathematics, and received my degree in Afghanistan. I love teaching children about Islam and sharing with them all that I know; but most of all, I just love being around chihldren! I have been a teacher for 10 years and have been enjoying every bit of it. I am happy to be a part of Pillars Academy and love to continue being so! I love teaching here because of the islamic values that I can share with my children, and because the Prophet Muhammad was also a teacher also because of the prophet muhammad (peace be upon him) being teacher too. I love teaching in general because of the calm and comfortable environment.
 
@@ -127,9 +131,7 @@ We will accomplish this through learning, playing, music and other guided learni
 #### Niran Ibrahim
 I have a B.S. degree in Electrical Engineering, and continued my education to recieve my credentials in Early Childhood. I've been at Pillars for more than 9 years working as an after school teacher, Sunday school teacher, Pre-K assistant, and now a Pre-K teacher. I love to see the children grow over the years. It is really rewarding to hear the great stories each child remembers while being part of an Islamic environment and making friends from different backgrounds. I have three children of my own and live in Mission Viejo. Some of my hobbies include swimming and talking walks along the beach. I also enjoy spending lots of time with my family.
 
-<a href="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg">
-  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg" />
-</a>
+
 ####Hasina Noorzoy 
 I have a AA degree in Liberal Studies from Santiago Canyon College and my Bachelors from Cal State Long Beach. I am still continuing my education in Human Development In Sha Allah. I had the privilege with working with the children at Pillars Academy last school year and I am excited for the upcoming school year to watch the children develop and grow In Sha Allah. What I enjoy the most at Pillars Academy is the loving and caring atmosphere Ma Sha Allah. 
 
