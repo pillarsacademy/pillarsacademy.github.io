@@ -29,7 +29,7 @@ Toddler Class Arabic Language & Islam: Faeiza Hadi
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg" />
 </a>
 
-<b>Preschool</b>
+<b>Preschool Class</b>
 
 Preschool Lead (Core Subjects): Soheila Behzadnieh
 
@@ -52,21 +52,24 @@ Qur'an/Islamic Studies: Faeiza Hadi
 <b>Pre-Kindergarten</b> 
 
 Pre-K Lead (Core Subjects): Niran Ibrahim
+
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754369/eb645754-e9d3-11e5-84f5-bd9cb34d7303.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754369/eb645754-e9d3-11e5-84f5-bd9cb34d7303.jpg" />
 </a>
 
 Pre-K Asst: Faeiza Hadi
+
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg" />
 </a>
 
-Arabic: Bushra Assaf
+Pre-K Arabic: Bushra Assaf
+
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754531/96375e56-e9d4-11e5-8b6f-3512e030021e.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754531/96375e56-e9d4-11e5-8b6f-3512e030021e.jpg" />
 </a>
 
-Qur'an/Islamic Studies: Salwa Ziadeh
+Pre-K Qur'an/Islamic Studies: Salwa Ziadeh
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754503/8217e3f0-e9d4-11e5-9e25-00313bf0af0f.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754503/8217e3f0-e9d4-11e5-9e25-00313bf0af0f.jpg" />
@@ -74,14 +77,17 @@ Qur'an/Islamic Studies: Salwa Ziadeh
 
 <b>Transitional Kindergarten/Kindergarten</b>
 
-Language Arts/Social Science: Hilary Levine
-Math/Science: Farrah Yasmin
+TK/KG Language Arts/Social Science: Hilary Levine
+
+
+
+TK/KG Math/Science: Farrah Yasmin
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754486/74beaa2c-e9d4-11e5-95d7-d02fd8609232.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754486/74beaa2c-e9d4-11e5-95d7-d02fd8609232.jpg" />
 </a>
 
-Islamic Studies/Arabic/Qur'an: Amani Chalati
+TK/KG Islamic Studies/Arabic/Qur'an: Amani Chalati
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754161/2fc56e7a-e9d3-11e5-9437-eef859564a6e.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754161/2fc56e7a-e9d3-11e5-9437-eef859564a6e.jpg" />
@@ -97,38 +103,39 @@ Islamic Studies/Arabic/Qur'an: Amani Chalati
 
 <b>First Grade</b>
 
-Lead (Core Subjects): Megan Webb
+First Grade Lead (Core Subjects): Megan Webb
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754447/500fec22-e9d4-11e5-8092-4ccd0458b4e4.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754447/500fec22-e9d4-11e5-8092-4ccd0458b4e4.jpg" />
 </a>
 
-Islamic Studies/Arabic/Qur'an: Amani Chalati
+First Grade Islamic Studies/Arabic/Qur'an: Amani Chalati
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754161/2fc56e7a-e9d3-11e5-9437-eef859564a6e.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754161/2fc56e7a-e9d3-11e5-9437-eef859564a6e.jpg" />
 </a>
 
 <b>2nd/3rd Grade</b> 
-Core Subjects: Anna Norris
+2nd/3rd Grade Lead (Core Subjects): Anna Norris
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754417/240c84aa-e9d4-11e5-870a-b88ce8f9e2d2.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754417/240c84aa-e9d4-11e5-870a-b88ce8f9e2d2.jpg" />
 </a>
 
-Qur'an/Islamic Studies: Salwa Ziadeh
+2nd/3rd Grade Qur'an/Islamic Studies: Salwa Ziadeh
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754503/8217e3f0-e9d4-11e5-9e25-00313bf0af0f.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754503/8217e3f0-e9d4-11e5-9e25-00313bf0af0f.jpg" />
 </a>
 
-Arabic: Assil Al Sharifi
+2nd/3rd Grade Arabic: Assil Al Sharifi
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754046/cebe5c5e-e9d2-11e5-9bc0-88faa1b8cffe.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754046/cebe5c5e-e9d2-11e5-9bc0-88faa1b8cffe.jpg" />
 </a>
 
 <b><u>Administrative Staff</b></u>
+
 Zubeda Kazi
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg">
@@ -138,16 +145,18 @@ Zubeda Kazi
 Maimuna Shurbaji
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754428/2df7e798-e9d4-11e5-9763-5723de54a5b3.jpg">
-  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754428/2df7e798-e9d4-11e5-9763-5723de54a5b3.jpg" />
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754428/2df7e798-e9d4-11e5-9763-5723de54a5b3.jpg"/>
 </a>
 
 Issra Al Safi
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754038/bebc5ef0-e9d2-11e5-8660-e6aba4710d07.jpg">
-  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754038/bebc5ef0-e9d2-11e5-8660-e6aba4710d07.jpg" />
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754038/bebc5ef0-e9d2-11e5-8660-e6aba4710d07.jpg"/>
 </a>
 
 Mona Ebrahim
+
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13756512/70d96ac4-e9dd-11e5-91ff-80aaa531c5b1.jpg"/> </a>
 
 ###Get to know our staff...
 
