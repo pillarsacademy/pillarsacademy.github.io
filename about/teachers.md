@@ -161,8 +161,9 @@ Mona Ebrahim
 ###Get to know our staff...
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754046/cebe5c5e-e9d2-11e5-9bc0-88faa1b8cffe.jpg">
-  <img width="50" src="https://cloud.githubusercontent.com/assets/11180395/13754046/cebe5c5e-e9d2-11e5-9bc0-88faa1b8cffe.jpg" />
-</a>####Assil Alsharifi
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754046/cebe5c5e-e9d2-11e5-9bc0-88faa1b8cffe.jpg" />
+</a>
+####Assil Alsharifi
 I’ve been teaching Arabic for eleven years. I started teaching Arabic at Berlitz Language Center, then moved on to teach at Pillars Academy.  I love teaching the Arabic language because it’s the language of the Holy Quran , and as an Arabic teacher my goal is to instill the love of the Arabic language in my students by creating a fun and enjoyable environment in the classroom. 
 I was born and raised in Baghdad, Iraq, have been married for twenty six years, and have four children. I love reading and walking on the beach with my husband. 
 
@@ -223,6 +224,9 @@ I have been teaching for fifteen years and have been the Preschool Director for 
 It is one of my goals to create a community of learners where we encourage children to discover their individuality, while working alongside them to maximize it. I believe in hands-on experiences, learning creatively, and learning though play. I want students of Pillars Academy to be confident and apply what they’ve learned in school to real-life situations and become future successful leaders. 
 My hobbies are learning and understanding the Quran by listening and watching lectures by renowned scholars. Spending time with my grandchildren is of course my favorite leisure activity.
 
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg" />
+</a>
 ####Hasina Noorzoy 
 I have a AA degree in Liberal Studies from Santiago Canyon College and my Bachelors from Cal State Long Beach. I am still continuing my education in Human Development In Sha Allah. I had the privilege with working with the children at Pillars Academy last school year and I am excited for the upcoming school year to watch the children develop and grow In Sha Allah. What I enjoy the most at Pillars Academy is the loving and caring atmosphere Ma Sha Allah. 
 
@@ -231,11 +235,6 @@ I have a AA degree in Liberal Studies from Santiago Canyon College and my Bachel
 </a>
 ####Anna Norris
 I have a Clear California Teaching Credential and a Master of Arts in Teaching from the University of California, Irvine. I am currently working on a Master of Science in Curriculum and Instruction at Cal State Fullerton. I have had the pleasure of working at Pillars Academy for the past seven years as an elementary teacher. I am an avid reader and I love to share my love of reading and writing with students across the subject areas.
-
-<a href="https://cloud.githubusercontent.com/assets/11180395/13754428/2df7e798-e9d4-11e5-9763-5723de54a5b3.jpg">
-  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754428/2df7e798-e9d4-11e5-9763-5723de54a5b3.jpg" />
-</a>
-####Maimuna Shurbaji
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754447/500fec22-e9d4-11e5-8092-4ccd0458b4e4.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754447/500fec22-e9d4-11e5-8092-4ccd0458b4e4.jpg" />
