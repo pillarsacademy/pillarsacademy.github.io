@@ -156,7 +156,6 @@ Issra Al Safi
 
 Mona Ebrahim
 
-  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13756512/70d96ac4-e9dd-11e5-91ff-80aaa531c5b1.jpg"/> </a>
 
 ###Get to know our staff...
 
