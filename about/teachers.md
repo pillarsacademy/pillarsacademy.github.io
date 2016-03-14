@@ -4,37 +4,45 @@ layout: default
 <b>Meet Pillars Academy's fine staff...</b>
 
 PILLARS ACADEMY PRESCHOOL
- Preschool Director: Zubeda Kazi
+
+Preschool Director: Zubeda Kazi
 
 TODDLER CLASS
+
 Lead: Runa Arghandewal
 Asst: Hasina Noorzoy
 Arabic Language & Islam: Faeiza Hadi
 
 PRESCHOOL
+
 Lead (Core Subjects): Soheila Behzadnieh
 Arabic & Asst: Bushra Assaf
 Qur'an/Islamic Studies: Faeiza Hadi
 
 <b>Pre-Kindergarten</b> 
+
 Lead (Core Subjects): Niran Ibrahim
 Asst: Faeiza Hadi
 Arabic: Bushra Assaf
 Qur'an/Islamic Studies: Salwa Ziadeh
 
 <b>Transitional Kindergarten/Kindergarten</b>
+
 Language Arts/Social Science: Hilary Levine
 Math/Science: Farrah Yasmin
 Islamic Studies/Arabic/Qur'an: Amani Chalati
 
 <b><u>Pillars Academy Elementaryl</b></u>
+
 <b>Curriculum Coordinator: Anna Norris</b>
 
 <b>First Grade</b>
+
 Lead (Core Subjects): Megan Webb
 Islamic Studies/Arabic/Qur'an: Amani Chalati
 
 <b>2nd/3rd Grade</b> 
+
 Core Subjects: Anna Norris
 Qur'an/Islamic Studies: Salwa Ziadeh
 Arabic: Assil AlSharifi
