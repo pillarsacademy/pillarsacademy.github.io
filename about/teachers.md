@@ -31,8 +31,7 @@ Islamic Studies/Arabic/Qur'an: Amani Chalati
 
 ##Pillars Academy Elementary
 
-###Curriculum Coaches: Anna Norris & Ahlam Moughania
-###Suprvising Directors: Zubeda Kazi & Ahlam Moughania
+###Curriculum Coordinator: Anna Norris
 
 ###First Grade
 Lead (Core Subjects): Megan Webb
