@@ -6,6 +6,7 @@ layout: default
 <b>PILLARS ACADEMY PRESCHOOL</b>
 
 <b>Preschool Director:</b> Zubeda Kazi
+
 <img src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" width="100"  mce_style="float: right; border: 0px;" style="float: right; border: 0px;">
 
 <b>Toddler Class</b>
@@ -15,11 +16,13 @@ Toddler Class Lead: Runa Arghandewal
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg" />
 </a>
+
 Toddler Class Asst: Hasina Noorzoy
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg" />
 </a>
+
 Toddler Class Arabic Language & Islam: Faeiza Hadi
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg">
@@ -28,55 +31,125 @@ Toddler Class Arabic Language & Islam: Faeiza Hadi
 
 <b>Preschool</b>
 
-Lead (Core Subjects): Soheila Behzadnieh
-Arabic & Asst: Bushra Assaf
+Preschool Lead (Core Subjects): Soheila Behzadnieh
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754095/f97bfa46-e9d2-11e5-8d05-65454755dfcc.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754095/f97bfa46-e9d2-11e5-8d05-65454755dfcc.jpg" />
+</a>
+
+Preschool Arabic & Asst: Bushra Assaf
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754531/96375e56-e9d4-11e5-8b6f-3512e030021e.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754531/96375e56-e9d4-11e5-8b6f-3512e030021e.jpg" />
+</a>
+
 Qur'an/Islamic Studies: Faeiza Hadi
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg" />
+</a>
 
 <b>Pre-Kindergarten</b> 
 
-Lead (Core Subjects): Niran Ibrahim
-Asst: Faeiza Hadi
+Pre-K Lead (Core Subjects): Niran Ibrahim
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754369/eb645754-e9d3-11e5-84f5-bd9cb34d7303.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754369/eb645754-e9d3-11e5-84f5-bd9cb34d7303.jpg" />
+</a>
+
+Pre-K Asst: Faeiza Hadi
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754195/46a481f8-e9d3-11e5-81d9-05be82edde9e.jpg" />
+</a>
+
 Arabic: Bushra Assaf
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754531/96375e56-e9d4-11e5-8b6f-3512e030021e.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754531/96375e56-e9d4-11e5-8b6f-3512e030021e.jpg" />
+</a>
+
 Qur'an/Islamic Studies: Salwa Ziadeh
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754503/8217e3f0-e9d4-11e5-9e25-00313bf0af0f.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754503/8217e3f0-e9d4-11e5-9e25-00313bf0af0f.jpg" />
+</a>
 
 <b>Transitional Kindergarten/Kindergarten</b>
 
 Language Arts/Social Science: Hilary Levine
 Math/Science: Farrah Yasmin
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754486/74beaa2c-e9d4-11e5-95d7-d02fd8609232.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754486/74beaa2c-e9d4-11e5-95d7-d02fd8609232.jpg" />
+</a>
+
 Islamic Studies/Arabic/Qur'an: Amani Chalati
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754161/2fc56e7a-e9d3-11e5-9437-eef859564a6e.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754161/2fc56e7a-e9d3-11e5-9437-eef859564a6e.jpg" />
+</a>
 
 <b>PILLARS ACADEMY ELEMENTARY</b>
 
 <b>Curriculum Coordinator:</b> Anna Norris
 
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754417/240c84aa-e9d4-11e5-870a-b88ce8f9e2d2.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754417/240c84aa-e9d4-11e5-870a-b88ce8f9e2d2.jpg" />
+</a>
+
 <b>First Grade</b>
 
 Lead (Core Subjects): Megan Webb
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754447/500fec22-e9d4-11e5-8092-4ccd0458b4e4.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754447/500fec22-e9d4-11e5-8092-4ccd0458b4e4.jpg" />
+</a>
+
 Islamic Studies/Arabic/Qur'an: Amani Chalati
 
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754161/2fc56e7a-e9d3-11e5-9437-eef859564a6e.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754161/2fc56e7a-e9d3-11e5-9437-eef859564a6e.jpg" />
+</a>
+
 <b>2nd/3rd Grade</b> 
-
 Core Subjects: Anna Norris
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754417/240c84aa-e9d4-11e5-870a-b88ce8f9e2d2.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754417/240c84aa-e9d4-11e5-870a-b88ce8f9e2d2.jpg" />
+</a>
+
 Qur'an/Islamic Studies: Salwa Ziadeh
-Arabic: Assil AlSharifi
 
-<b><u>Administrative Staffl</b></u>
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754503/8217e3f0-e9d4-11e5-9e25-00313bf0af0f.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754503/8217e3f0-e9d4-11e5-9e25-00313bf0af0f.jpg" />
+</a>
+
+Arabic: Assil Al Sharifi
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754046/cebe5c5e-e9d2-11e5-9bc0-88faa1b8cffe.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754046/cebe5c5e-e9d2-11e5-9bc0-88faa1b8cffe.jpg" />
+</a>
+
+<b><u>Administrative Staff</b></u>
 Zubeda Kazi
-Maimuna Shurbaji
-Issra Al Safi
-Mona Ebrahim
-
-###Get to know our staff...
-
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" />
 </a>
-####Zubeda Kazi
-I have been teaching for fifteen years and have been the Preschool Director for five years at NAEYC accredited Pillars Academy.  I have a Bachelors degree in Early Childhood Education, Certificate of Proficiency in Computer Science, and the Preschool Director Permit from Commission on Teacher Credentialing. 
 
-It is one of my goals to create a community of learners where we encourage children to discover their individuality, while working alongside them to maximize it. I believe in hands-on experiences, learning creatively, and learning though play. I want students of Pillars Academy to be confident and apply what they’ve learned in school to real-life situations and become future successful leaders. 
-My hobbies are learning and understanding the Quran by listening and watching lectures by renowned scholars. Spending time with my grandchildren is of course my favorite leisure activity.
+Maimuna Shurbaji
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754428/2df7e798-e9d4-11e5-9763-5723de54a5b3.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754428/2df7e798-e9d4-11e5-9763-5723de54a5b3.jpg" />
+</a>
+
+Issra Al Safi
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754038/bebc5ef0-e9d2-11e5-8660-e6aba4710d07.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754038/bebc5ef0-e9d2-11e5-8660-e6aba4710d07.jpg" />
+</a>
+
+Mona Ebrahim
+
+###Get to know our staff...
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754038/bebc5ef0-e9d2-11e5-8660-e6aba4710d07.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754038/bebc5ef0-e9d2-11e5-8660-e6aba4710d07.jpg" />
@@ -96,14 +169,16 @@ I was born and raised in Baghdad, Iraq, have been married for twenty six years, 
 ####Bushra Assaf
 I have a B.A. in Libraries science, and I have taken my Child Development courses at Saddleback College. I have been working at Pillars Academy since 2013. My passion is teaching and watching children learn and grow. I look forward to getting to know your child, and creating a well-balanced and nurturing classroom where children can feel comfortable to explore and create. I’m proud to be a part of the Pillars Academy Family. I am married with two great kids.
 
-
+<a href="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg" />
+</a>
 ####Runa Arghandehwal
 I majored in economics and general mathematics, and received my degree in Afghanistan. I love teaching children about Islam and sharing with them all that I know; but most of all, I just love being around chihldren! I have been a teacher for 10 years and have been enjoying every bit of it. I am happy to be a part of Pillars Academy and love to continue being so! I love teaching here because of the islamic values that I can share with my children, and because the Prophet Muhammad was also a teacher also because of the prophet muhammad (peace be upon him) being teacher too. I love teaching in general because of the calm and comfortable environment.
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754095/f97bfa46-e9d2-11e5-8d05-65454755dfcc.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754095/f97bfa46-e9d2-11e5-8d05-65454755dfcc.jpg" />
 </a>
-####Sohaila Behzadnieh
+####Soheila Behzadnieh
 My Masters in Education is from the University of Florida and I received my Early Childhood Education from Irvine Valley College.
 
 I have worked as a volunteer instructor at many different Islamic or educational  centers, such as ISOC,  OCIF, and ECEF; teaching students at levels ranging from Preschool through teen years. I have also been the head of the ECEF Public Relation Committee for more than two decades. I have formally been a Preschool/ Pre K Lead teacher since 2003. 
@@ -136,6 +211,14 @@ We will accomplish this through learning, playing, music and other guided learni
 #### Niran Ibrahim
 I have a B.S. degree in Electrical Engineering, and continued my education to recieve my credentials in Early Childhood. I've been at Pillars for more than 9 years working as an after school teacher, Sunday school teacher, Pre-K assistant, and now a Pre-K teacher. I love to see the children grow over the years. It is really rewarding to hear the great stories each child remembers while being part of an Islamic environment and making friends from different backgrounds. I have three children of my own and live in Mission Viejo. Some of my hobbies include swimming and talking walks along the beach. I also enjoy spending lots of time with my family.
 
+<a href="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg">
+  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" />
+</a>
+####Zubeda Kazi
+I have been teaching for fifteen years and have been the Preschool Director for five years at NAEYC accredited Pillars Academy.  I have a Bachelors degree in Early Childhood Education, Certificate of Proficiency in Computer Science, and the Preschool Director Permit from Commission on Teacher Credentialing. 
+
+It is one of my goals to create a community of learners where we encourage children to discover their individuality, while working alongside them to maximize it. I believe in hands-on experiences, learning creatively, and learning though play. I want students of Pillars Academy to be confident and apply what they’ve learned in school to real-life situations and become future successful leaders. 
+My hobbies are learning and understanding the Quran by listening and watching lectures by renowned scholars. Spending time with my grandchildren is of course my favorite leisure activity.
 
 ####Hasina Noorzoy 
 I have a AA degree in Liberal Studies from Santiago Canyon College and my Bachelors from Cal State Long Beach. I am still continuing my education in Human Development In Sha Allah. I had the privilege with working with the children at Pillars Academy last school year and I am excited for the upcoming school year to watch the children develop and grow In Sha Allah. What I enjoy the most at Pillars Academy is the loving and caring atmosphere Ma Sha Allah. 
