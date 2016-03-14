@@ -3,15 +3,15 @@ layout: default
 ---
 <b>Meet Pillars Academy's fine staff...</b>
 
-<b><u>Pillars Academy Preschool</b></u>
-<b>Preschool Director: Zubeda Kazi
+PILLARS ACADEMY PRESCHOOL
+Preschool Director: Zubeda Kazi
 
-<b>Toddler Class</b>
+TODDLER CLASS
 Lead: Runa Arghandewal
 Asst: Hasina Noorzoy
 Arabic Language & Islam: Faeiza Hadi
 
-<b>Preschool</b>
+PRESCHOOL
 Lead (Core Subjects): Soheila Behzadnieh
 Arabic & Asst: Bushra Assaf
 Qur'an/Islamic Studies: Faeiza Hadi
