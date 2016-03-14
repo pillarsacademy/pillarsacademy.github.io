@@ -4,6 +4,7 @@ layout: default
 <b>Meet Pillars Academy's fine staff...</b>
 
 PILLARS ACADEMY PRESCHOOL
+
 Preschool Director: Zubeda Kazi
 
 TODDLER CLASS
