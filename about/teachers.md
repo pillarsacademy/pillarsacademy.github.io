@@ -6,9 +6,11 @@ layout: default
 <b>PILLARS ACADEMY PRESCHOOL</b>
 
 <b>Preschool Director:</b> 
+
 <a href="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" />
 </a>
+
 Zubeda Kazi
 
 <b>Toddler Class</b>
