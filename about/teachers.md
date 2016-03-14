@@ -1,6 +1,6 @@
 Meet Pillars Academy's fine staff...
 
-###Pillars Academy Preschool
+<b>Pillars Academy Preschool</b>
 
 ####Preschool Director: Zubeda Kazi
  
