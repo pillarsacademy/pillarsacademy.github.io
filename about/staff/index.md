@@ -9,28 +9,28 @@ layout: default
 
 <b>Toddler Class</b>
 
-Lead: [Runa Arghandewal](./RA)
-Assistant: [Hasina Noorzoy](./HN)
-Arabic Language & Islam: [Faeiza Hadi](./FH)
+* Lead: [Runa Arghandewal](./RA)
+* Assistant: [Hasina Noorzoy](./HN)
+* Arabic Language & Islam: [Faeiza Hadi](./FH)
 
 <b>Preschool Class</b>
 
-Lead (Core Subjects): [Soheila Behzadnieh](./SB)
-Arabic & Assistant: [Bushra Assaf](./BA)
-Qur'an/Islamic Studies: [Faeiza Hadi](./FH)
+* Lead (Core Subjects): [Soheila Behzadnieh](./SB)
+* Arabic & Assistant: [Bushra Assaf](./BA)
+* Qur'an/Islamic Studies: [Faeiza Hadi](./FH)
 
 <b>Pre-Kindergarten</b> 
 
-Lead (Core Subjects): [Niran Ibrahim](./)
-Assistant: [Faeiza Hadi](./)
-Arabic: [Bushra Assaf](./)
-Qur'an/Islamic Studies: [Salwa Ziadeh](./)
+* Lead (Core Subjects): [Niran Ibrahim](./)
+* Assistant: [Faeiza Hadi](./)
+* Arabic: [Bushra Assaf](./)
+* Qur'an/Islamic Studies: [Salwa Ziadeh](./)
 
 <b>Transitional Kindergarten/Kindergarten</b>
 
-TK/KG Language Arts/Social Science: [Hilary Levine](./)
-TK/KG Math/Science: [Farrah Yasmin](./)
-TK/KG Islamic Studies/Arabic/Qur'an: [Amani Chalati](./)
+* Language Arts/Social Science: [Hilary Levine](./)
+* Math/Science: [Farrah Yasmin](./)
+* Islamic Studies/Arabic/Qur'an: [Amani Chalati](./)
 
 <b>PILLARS ACADEMY ELEMENTARY</b>
 
@@ -38,21 +38,21 @@ TK/KG Islamic Studies/Arabic/Qur'an: [Amani Chalati](./)
 
 <b>First Grade</b>
 
-First Grade Lead (Core Subjects): [Megan Webb](./)
-First Grade Islamic Studies/Arabic/Qur'an: [Amani Chalati](./)
+* Lead (Core Subjects): [Megan Webb](./)
+* Islamic Studies/Arabic/Qur'an: [Amani Chalati](./)
 
 <b>2nd/3rd Grade</b> 
 
-2nd/3rd Grade Lead (Core Subjects): [Anna Norris](./)
-2nd/3rd Grade Qur'an/Islamic Studies: [Salwa Ziadeh](./)
-2nd/3rd Grade Arabic: [Assil Al Sharifi](./)
+* Lead (Core Subjects): [Anna Norris](./)
+* Qur'an/Islamic Studies: [Salwa Ziadeh](./)
+* Arabic: [Assil Al Sharifi](./)
 
 <b><u>Administrative Staff</b></u>
 
-Supervisor: [Zubeda Kazi](./)
-Office: [Maimuna Shurbaji](./)
-Accounting: [Issra Al Safi](./)
-Communications: [Mona Ebrahim](./)
+* Supervisor: [Zubeda Kazi](./)
+* Office: [Maimuna Shurbaji](./)
+* Accounting: [Issra Al Safi](./)
+* Communications: [Mona Ebrahim](./)
 
 
 ###Get to know our staff...
