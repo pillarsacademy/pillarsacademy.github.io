@@ -54,13 +54,13 @@
   items:
     - path: parent-handbook
       title: "Parent Handbook"
-     - path: Supplies
+    - path: Supplies
       title: "Supply List"
-     - path: ptc
-      title: "PTC Corner" 
-     - path: themes-values
+    - path: ptc
+      title: "PTC Corner"
+    - path: themes-values
       title: "Curriculum Themes & Values"
-     - path: after-school
+    - path: after-school
       title: "After School Activities"
 - path: give
   title: "Give"
