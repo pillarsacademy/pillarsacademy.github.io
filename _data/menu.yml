@@ -60,8 +60,6 @@
       title: "Supply List"
     - path: ptc
       title: "PTC Corner"
-    - path: themes-values
-      title: "Curriculum Themes & Values"
     - path: after-school
       title: "After School Activities"
 - path: give
@@ -76,7 +74,7 @@
     - path: sponsorship
       title: "Sponsorship Packages"
 - path: news
-  title: "Gallery & Sponsors"
+  title: "Gallery & Calendar"
   banner: /templates/alridah/images/header/newsandevents.jpg
   href:
   items:
