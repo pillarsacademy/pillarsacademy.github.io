@@ -11,13 +11,8 @@ layout: default
 
 <b>Toddler Class</b>
 
-Toddler Class Lead: [Runa Arghandewal](./runa)
-
-<a href="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg">
-  <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg" />
-</a>
-
-Toddler Class Asst: Hasina Noorzoy
+Toddler Class Lead: [Runa Arghandewal](./RA)
+Toddler Class Asst: [Hasina Noorzoy](./HN)
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754403/17371ede-e9d4-11e5-9dda-5d9412066937.jpg" />
