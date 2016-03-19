@@ -3,6 +3,7 @@ layout: default
 ---
 <b>Meet Pillars Academy's fine staff...</b>
 
+
 <b>PILLARS ACADEMY PRESCHOOL</b>
 
 <b>Preschool Director:</b> [Zubeda Kazi](./ZK)
@@ -47,11 +48,10 @@ layout: default
 * Qur'an/Islamic Studies: [Salwa Ziadeh](./SZ)
 * Arabic: [Assil Al Sharifi](./AA)
 
-<b><u>Administrative Staff</b></u>
+<b><u>Administrative Staff</u></b>
 
 * Supervisor: [Zubeda Kazi](./ZK)
 * Office: [Maimuna Shurbaji](./MS)
 * Accounting: [Issra Al Safi](./IA)
 * Communications: [Mona Ebrahim](./ME)
-
 
