@@ -22,6 +22,8 @@
   banner: /templates/alridah/images/header/teachinglearning.jpg
   href:
   items:
+    - path: Curriculum
+      title: Curriculum
     - path: toddlers
       title: "Toddler Program"
     - path: preschool
