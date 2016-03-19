@@ -11,7 +11,7 @@ layout: default
 
 <b>Toddler Class</b>
 
-Toddler Class Lead: Runa Arghandewal
+Toddler Class Lead: [Runa Arghandewal](./runa)
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754072/e3b06c9c-e9d2-11e5-8c25-60d0cca2d9b3.jpg" />
