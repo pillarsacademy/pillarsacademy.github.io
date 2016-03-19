@@ -7,6 +7,7 @@ layout: default
 </a>
 
 <b>Faeiza Hadi</b>
+
 I have taught now for nearly 30 years and approach each year with a fresh start. I truly enjoy providing the Islamic foundation to our future leaders and always love seeing them thrive and develop. 
 •	Belief:
 I am a teacher who truly believes that every student will strive in the future and their bright minds will enable them to go above and beyond society’s standards. 
