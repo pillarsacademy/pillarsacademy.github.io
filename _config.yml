@@ -1,5 +1,5 @@
 name: Pillars Academy
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
 gems:
   - jekyll-sitemap
