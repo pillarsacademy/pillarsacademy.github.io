@@ -5,7 +5,9 @@ layout: default
 <a href="https://cloud.githubusercontent.com/assets/11180395/13754095/f97bfa46-e9d2-11e5-8d05-65454755dfcc.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13754095/f97bfa46-e9d2-11e5-8d05-65454755dfcc.jpg" />
 </a>
-####Soheila Behzadnieh
+
+<b>Soheila Behzadnieh</b>
+
 My Masters in Education is from the University of Florida and I received my Early Childhood Education from Irvine Valley College.
 
 I have worked as a volunteer instructor at many different Islamic or educational  centers, such as ISOC,  OCIF, and ECEF; teaching students at levels ranging from Preschool through teen years. I have also been the head of the ECEF Public Relation Committee for more than two decades. I have formally been a Preschool/ Pre K Lead teacher since 2003. 
