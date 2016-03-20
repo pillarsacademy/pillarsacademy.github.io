@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<b><center>Introducing PASS (Pillars After School Supplements) Community After School Program!</center></b>
+##<center>Introducing PASS (Pillars After School Supplements) Community After School Program!</center>
 
 <link rel="stylesheet" type="text/css" media="all" href="https://emarketing.activenetwork.com/res/button/css/button-v4.css" /><table><tbody><tr><td><div id="btn_div" class="btn-g201"><ul><li><a id="btn_lnk" href="https://campscui.active.com/orgs/PillarsAcademy" target="_blank"><span id="btn_txt">Register Now</span></a></li></ul></div></td></tr><tr><td nowrap=""><div id="btn_foot">by <a href="http://www.activenetwork.com" target="_blank" title="Online Registration, Marketing and Event Management Software">ACTIVE Network</a></div></td></tr></tbody></table>
 
