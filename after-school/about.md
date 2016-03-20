@@ -2,7 +2,7 @@
 layout: default
 ---
 <center>
-##Introducing PASS (Pillars After School Supplements) Community After School Program!
+<b>Introducing PASS (Pillars After School Supplements) Community After School Program!</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="https://emarketing.activenetwork.com/res/button/css/button-v4.css" /><table><tbody><tr><td><div id="btn_div" class="btn-g201"><ul><li><a id="btn_lnk" href="https://campscui.active.com/orgs/PillarsAcademy" target="_blank"><span id="btn_txt">Register Now</span></a></li></ul></div></td></tr><tr><td nowrap=""><div id="btn_foot">by <a href="http://www.activenetwork.com" target="_blank" title="Online Registration, Marketing and Event Management Software">ACTIVE Network</a></div></td></tr></tbody></table>
 
@@ -13,6 +13,7 @@ layout: default
 The Program is called PASS (Pillars After School Supplementals) and is offered Monday through Friday 3:30pm-5:30pm for all grades Elementary-High School: K-2nd, 3rd-6th, 7th-12th. 
 
 <b>Registration is now open for this program! It will be offered as spaces allow. Register online (link above) or at Pillars Academy. Call 949-951-0442 for further information or email info@pillarsacademy.org!</b>
+</center>
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg">
   <img width="700" src="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg"/>
@@ -40,4 +41,4 @@ Alternating: Life skills, Islamic guidance, mentoring, college & career planning
   All levels Karate with Instructor Sensei Luis from United Studios of Self Defense; additional skills like nunchucks training available. Call Pillars Academy 949-951-0442 to sign up.
 
 <b>Piano available based on enough interest.</b>
-</center>
+
