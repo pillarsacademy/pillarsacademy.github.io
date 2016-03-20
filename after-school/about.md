@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-<center>Introducing PASS (Pillars After School Supplements) 
-Community After School Program!</center>
+<b><center>Introducing PASS (Pillars After School Supplements) Community After School Program!</center></b>
 
 <link rel="stylesheet" type="text/css" media="all" href="https://emarketing.activenetwork.com/res/button/css/button-v4.css" /><table><tbody><tr><td><div id="btn_div" class="btn-g201"><ul><li><a id="btn_lnk" href="https://campscui.active.com/orgs/PillarsAcademy" target="_blank"><span id="btn_txt">Register Now</span></a></li></ul></div></td></tr><tr><td nowrap=""><div id="btn_foot">by <a href="http://www.activenetwork.com" target="_blank" title="Online Registration, Marketing and Event Management Software">ACTIVE Network</a></div></td></tr></tbody></table>
 
 <b>Register online or in the Pillars Office; Spaces going fast. Enrollment for program as low as $75/month!</b>
 
-<b>Pillars Academy will now be offering it's services to the community via an After School Program with not only Professional Tutoring & Homework Help, but Arabic, Qur'an, fun Islamic Studies classes, and now professional Sports Trainings like Girls Volleyball, Girls & Boys Basketball, and Girls & Boys Soccer in the Spring!</>
+<b>Pillars Academy will now be offering it's services to the community via an After School Program with not only Professional Tutoring & Homework Help, but Arabic, Qur'an, fun Islamic Studies classes, and now professional Sports Trainings like Girls Volleyball, Girls & Boys Basketball, and Girls & Boys Soccer in the Spring!</b>
 
 The Program is called PASS (Pillars After School Supplementals) and is offered Monday through Friday 3:30pm-5:30pm for all grades Elementary-High School: K-2nd, 3rd-6th, 7th-12th. 
 
