@@ -14,10 +14,10 @@ The Program is called PASS (Pillars After School Supplementals) and is offered M
 <b>Registration is now open for this program! It will be offered as spaces allow. Register online (link above) or at Pillars Academy. Call 949-951-0442 for further information or email info@pillarsacademy.org!</b>
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg">
-  <img width="650" src="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg" />
+  <img width="700" src="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg"/>
   
 <a href="https://cloud.githubusercontent.com/assets/11180395/13907739/6833671a-eeb2-11e5-8f69-c1abca5a81a8.jpg">
-  <img width="650" src="https://cloud.githubusercontent.com/assets/11180395/13907739/6833671a-eeb2-11e5-8f69-c1abca5a81a8.jpg" />
+  <img width="700" src="https://cloud.githubusercontent.com/assets/11180395/13907739/6833671a-eeb2-11e5-8f69-c1abca5a81a8.jpg"/>
 </a>
 
 
