@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-##<center>Introducing PASS (Pillars After School Supplements) 
+<center>Introducing PASS (Pillars After School Supplements) 
 Community After School Program!</center>
 
 <link rel="stylesheet" type="text/css" media="all" href="https://emarketing.activenetwork.com/res/button/css/button-v4.css" /><table><tbody><tr><td><div id="btn_div" class="btn-g201"><ul><li><a id="btn_lnk" href="https://campscui.active.com/orgs/PillarsAcademy" target="_blank"><span id="btn_txt">Register Now</span></a></li></ul></div></td></tr><tr><td nowrap=""><div id="btn_foot">by <a href="http://www.activenetwork.com" target="_blank" title="Online Registration, Marketing and Event Management Software">ACTIVE Network</a></div></td></tr></tbody></table>
@@ -14,11 +14,11 @@ The Program is called PASS (Pillars After School Supplementals) and is offered M
 
 <b>Registration is now open for this program! It will be offered as spaces allow. Register online (link above) or at Pillars Academy. Call 949-951-0442 for further information or email info@pillarsacademy.org!</b>
 
-<a href="https://cloud.githubusercontent.com/assets/11180395/12897282/5497d05a-ce5b-11e5-9ac8-f1ca6e3412ea.jpg">
-  <img width="600" src="https://cloud.githubusercontent.com/assets/11180395/12897282/5497d05a-ce5b-11e5-9ac8-f1ca6e3412ea.jpg" />
+<a href="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg">
+  <img width="800" src="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg" />
   
-<a href="https://cloud.githubusercontent.com/assets/11180395/12897283/5498a00c-ce5b-11e5-921b-85e777f12912.jpg">
-  <img width="600" src="https://cloud.githubusercontent.com/assets/11180395/12897283/5498a00c-ce5b-11e5-921b-85e777f12912.jpg" />
+<a href="https://cloud.githubusercontent.com/assets/11180395/13907739/6833671a-eeb2-11e5-8f69-c1abca5a81a8.jpg">
+  <img width="800" src="https://cloud.githubusercontent.com/assets/11180395/13907739/6833671a-eeb2-11e5-8f69-c1abca5a81a8.jpg" />
 </a>
 
 
