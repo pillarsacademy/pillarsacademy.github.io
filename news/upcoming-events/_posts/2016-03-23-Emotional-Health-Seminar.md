@@ -1,4 +1,4 @@
-#Additional classes added! Now every Wednesday 8a-9am!
+<b> Come learn about human emotional health and development, and how to better understand both yourself and your children!
 
-<img src="https://cloud.githubusercontent.com/assets/11180395/10551295/f9f62d9a-7400-11e5-9b4b-b2b1f419bcc5.jpg" width="400" />
+<img src="https://cloud.githubusercontent.com/assets/11180395/13930375/110f4b34-ef5c-11e5-9c78-ddc8f1867fd8.jpg" width="400" />
 
