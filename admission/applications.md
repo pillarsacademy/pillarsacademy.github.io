@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Enrollment Packets
+Enrollment Packets
 
 For your convenience, enrollment packets are available for download
 
