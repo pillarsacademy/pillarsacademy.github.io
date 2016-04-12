@@ -35,12 +35,13 @@ Alternating: Life skills, Islamic guidance, mentoring, college & career planning
 * ACT/SAT workshops
 
 <b>PASS also provides Karate for Kids</b>
+
 * Preschool-Kindergarten
-  Fridays 3:00pm-3:45pm
+  Fridays 3:00pm-3:30pm
   Beg-Intermediate Karate with Instructor Sensei Luis from United Studios of Self Defense	
 
 * 1st-3rd Grade
-  Fridays 3:45pm-4:45pm
+  Fridays 3:30pm-4:15pm
   All levels Karate with Instructor Sensei Luis from United Studios of Self Defense; additional skills like nunchucks training available. Call Pillars Academy 949-951-0442 to sign up.
 
 <b>Piano available based on enough interest.</b>
