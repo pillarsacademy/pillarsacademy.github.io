@@ -4,10 +4,9 @@ layout: default
 
 Enrollment Packets
 
-For your convenience, enrollment packets are available for download
+For your convenience, the enrollment packet is  available for download
 
-- [New Student-KG](https://github.com/pillarsacademy/pillarsacademy.github.io/files/635/Enrollment.Packet.Elementary.15-16.docx)
-- [New Student–Infant, Toddler, & Preschool](https://github.com/pillarsacademy/pillarsacademy.github.io/files/634/Enrollment.Packet.Tod-PreK.15-16.docx)
+- [New Student–3 months- 5 Yr Old](https://github.com/pillarsacademy/pillarsacademy.github.io/files/245954/Enrollment.Packet.PA.zip)
 - [Child Pre-Admissions History](/images/stories/documents/childpreadminhistory.pdf)
 - [Consent for Medical Treatment](/images/stories/documents/consentformedtreatment.pdf)
 - [ID and Emergency Form](/images/stories/documents/idandemergencyform.pdf)
