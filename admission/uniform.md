@@ -4,16 +4,16 @@ layout: default
 
 # School Uniform
 
-At Pillars Academy we insist on instilling positive behaviors and attitudes in our young students. Extensive research has been done affirming the correlation between dress code and behavior. Accordingly, we take our new dress code seriously. Students are expected to wear their uniforms with pride, demonstrating outstanding morality, citizenship and appearance at all times.
+At Pillars Academy we believe in instilling positive behaviors and attitudes in our young students. Extensive research has been done affirming the correlation between dress code and behavior. Students come to wear their uniforms with pride, demonstrating good citizenship and appearance at all times.
 
 #### Uniform Dress Code
 
-- Boys may wear dark blue slacks or long shorts along with a light blue dress shirt or polo style shirt.
-- Girls may wear plaid uniform jumpers with a light blue blouse. They must wear either navy blue opaque tights, leggings, or pants under the jumper.
+- Boys may wear dark blue slacks or long shorts along with a light blue or white dress shirt or polo style shirt.
+- Girls may wear plaid uniform jumpers with a light blue blouse. They must wear either navy blue opaque tights, leggings, jeggings, or pants under the jumper. They may also dress similar to the above "Boy's" Dress code.
 - Navy blue cardigans with logos are required for all children in cool weather.
-- All children should wear white or dark colored socks and black or navy blue dress shoes.
+- All children should wear white or dark colored socks and black or navy blue dress shoes with a good sturdy sole.
 - For field trips, weekly trips to the park, and sports day activities, students are required to wear Pillars Academy logo shirts which are available for $10 at the front office.
-- All elementary school students in First Grade and up will be required to wear a special uniform on Friday (Jum'aa): A white dress shirt with the Pillars Academy Logo embroidered on it, Burgundy tie, and Navy blue pants (or skirt for girls). Pillars Academy embroidered Dress shirts and Burgundy ties are available for purchase at the front office for $26. Dress shirts with logo can be ordered from Land's End.
+-Tops and outerwear is preferred to have embroidered Pillars Academy logo, and can be ordered from Land's End.
 <br />
 
 #### Where to Order Uniform Items
