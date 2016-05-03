@@ -86,7 +86,7 @@
       title: "Upcoming Events"
     - path: calendar
       title: "Calendar"
-- path: Charter-in-compassion
+- path: Summer-camp
   title: "Summer Camp"
   banner: /templates/alridah/images/header/Charter-of-Compassion.jpg
   href:
