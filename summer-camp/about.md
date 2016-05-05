@@ -1,4 +1,8 @@
-Pillars Summer Camp is back and better than ever!
+---
+layout: default
+---
+<center>
+<b> Pillars Summer Camp is back and better than ever!</b>
 
 6 weeks of fun!   June 27- Aug 5 Mondays-Fridays
 As low as @125/week 9:30am-2:30pm
@@ -15,5 +19,5 @@ Water Play
 23581 Madero, #104 Mission Viejo, CA 92691
 Call 949-951-0442 ~ email info@pillarsacademy.org
 
-<a href="https://cloud.githubusercontent.com/assets/11180395/14997102/db3620e4-1131-11e6-8085-d976b3f3e2c7.jpg">
-  <img width="680" src="https://cloud.githubusercontent.com/assets/11180395/14997102/db3620e4-1131-11e6-8085-d976b3f3e2c7.jpg"/> 
+<a href="https://cloud.githubusercontent.com/assets/11180395/15037926/2b9e9e4e-1254-11e6-8653-a78febfb961d.jpg">
+  <img width="680" src="https://cloud.githubusercontent.com/assets/11180395/15037926/2b9e9e4e-1254-11e6-8653-a78febfb961d.jpg"/> 
