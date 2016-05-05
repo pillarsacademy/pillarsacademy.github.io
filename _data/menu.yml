@@ -88,7 +88,7 @@
       title: "Calendar"
 - path: summer-camp
   title: "Summer Camp"
-  banner: /templates/alridah/images/header/apillarssummer.jpg
+  banner: /templates/alridah/images/header/asummer.jpg
   href:
   items:
     - path: about
