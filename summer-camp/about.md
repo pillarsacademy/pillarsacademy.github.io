@@ -11,12 +11,11 @@ As low as @125/week 9:30am-2:30pm
 Camp levels for ages 3-14
 
 * Weekly Field Trips
-
 * Technology Fun
 * Sports/Yoga/Karate
 * Academic Enrichment
-*Arabic & Qur'an Learning
-*Water Play
+* Arabic & Qur'an Learning
+* Water Play
 
 23581 Madero, #104 Mission Viejo, CA 92691
 Call 949-951-0442 ~ email info@pillarsacademy.org </center> </b>
