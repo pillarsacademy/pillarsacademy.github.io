@@ -8,8 +8,8 @@ At Pillars Academy we believe in instilling positive behaviors and attitudes in 
 
 #### Uniform Dress Code
 
-- Boys may wear dark blue slacks or long shorts along with a light blue or white dress shirt or polo style shirt.
-- Girls may wear plaid uniform jumpers with a light blue blouse. They must wear either navy blue opaque tights, leggings, jeggings, or pants under the jumper. They may also dress similar to the above "Boy's" Dress code.
+- Boys may wear dark blue slacks or long shorts along with a light blue polo shirt.
+- Girls may wear plaid uniform jumpers with their light blue blouse over dark blue slacks or pants. They may wear either navy blue opaque tights, leggings, jeggings, or pants under the jumper. They may also dress similar to the above "Boy's" Dress code.
 - Navy blue cardigans with logos are required for all children in cool weather.
 - All children should wear white or dark colored socks and black or navy blue dress shoes with a good sturdy sole.
 - For field trips, weekly trips to the park, and sports day activities, students are required to wear Pillars Academy logo shirts which are available for $10 at the front office.
