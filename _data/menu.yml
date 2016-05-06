@@ -24,12 +24,12 @@
   items:
     - path: Curriculum
       title: Curriculum
+    - path: infants
+      title: "Infants"
     - path: toddlers
       title: "Toddler Program"
     - path: preschool
       title: "Preschool"
-    - path: elementary
-      title: "Elementary K-5"
     - path: religious-studies
       title: "Religious Studies"
     - path: leadership
