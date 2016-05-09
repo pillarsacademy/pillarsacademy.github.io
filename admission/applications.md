@@ -6,7 +6,7 @@ Enrollment Packets
 
 For your convenience, the enrollment packet is  available for download
 
-- [New Student–3 months- 5 Yr Old](https://github.com/pillarsacademy/pillarsacademy.github.io/files/245954/Enrollment.Packet.PA.zip)
+- [New Student–3 months- 5 Yr Old](https://github.com/pillarsacademy/pillarsacademy.github.io/files/255472/Enrollment.Packet.PA.pdf)
 - [Child Pre-Admissions History](/images/stories/documents/childpreadminhistory.pdf)
 - [Consent for Medical Treatment](/images/stories/documents/consentformedtreatment.pdf)
 - [ID and Emergency Form](/images/stories/documents/idandemergencyform.pdf)
