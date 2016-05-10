@@ -2,20 +2,19 @@
 layout: default
 ---
 <center>
-<b>Introducing PASS (Pillars After School Supplements) Community After School Program!</b>
+<b>PASS (Pillars After School Supplements) Community After School Program</b>
+We're approaching the end of our third trimester of PASS with friendships formed, and a lot of learning and fun accomplished! Please take this brief survey to help us create the schedule for next year's PASS tailored to YOUR needs! 
+</center></b>
 
-
-<link rel="stylesheet" type="text/css" media="all" href="https://emarketing.activenetwork.com/res/button/css/button-v4.css" /><table><tbody><tr><td><div id="btn_div" class="btn-g201"><ul><li><a id="btn_lnk" href="https://campscui.active.com/orgs/PillarsAcademy" target="_blank"><span id="btn_txt">Register Now</span></a></li></ul></div></td></tr><tr><td nowrap=""><div id="btn_foot">by <a href="http://www.activenetwork.com" target="_blank" title="Online Registration, Marketing and Event Management Software">ACTIVE Network</a></div></td></tr></tbody></table>
-
-</center>
-
-<b>Register online or in the Pillars Office; Spaces going fast. Enrollment for program as low as $75/month!</b>
-
-<b>Pillars Academy will now be offering it's services to the community via an After School Program with not only Professional Tutoring & Homework Help, but Arabic, Qur'an, fun Islamic Studies classes, and now professional Sports Trainings like Girls Volleyball, Girls & Boys Basketball, and Girls & Boys Soccer in the Spring!</b>
+<b>Pillars Academy now offers it's services and expert teachers to the community via an After School Program including:
+Academic Enrichment, Professional Tutoring & Homework Help, Arabic, Qur'an, fun Islamic Studies classes, and professional Sports Trainings like Girls Volleyball, Girls & Boys Basketball, and Girls & Boys Soccer!</b>
 
 The Program is called PASS (Pillars After School Supplementals) and is offered Monday through Friday 3:30pm-5:30pm for all grades Elementary-High School: K-2nd, 3rd-6th, 7th-12th. 
 
-<b>Registration is now open for this program! It will be offered as spaces allow. Register online (link above) or at Pillars Academy. Call 949-951-0442 for further information or email info@pillarsacademy.org!</b>
+<b>Register via link to this and upcoming PASS courses:
+<link rel="stylesheet" type="text/css" media="all" href="https://emarketing.activenetwork.com/res/button/css/button-v4.css" /><table><tbody><tr><td><div id="btn_div" class="btn-g201"><ul><li><a id="btn_lnk" href="https://campscui.active.com/orgs/PillarsAcademy" target="_blank"><span id="btn_txt">Register Now</span></a></li></ul></div></td></tr><tr><td nowrap=""><div id="btn_foot">by <a href="http://www.activenetwork.com" target="_blank" title="Online Registration, Marketing and Event Management Software">ACTIVE Network</a></div></td></tr></tbody></table> 
+
+or at Pillars Academy. Call 949-951-0442 for further information or email info@pillarsacademy.org!</b>
 
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg">
@@ -29,12 +28,11 @@ The Program is called PASS (Pillars After School Supplementals) and is offered M
 <b>Coming soon for High School:</b>
 * Game Changers- Islamic Studies/Life Skills/Mentor				
 Mentor leads discussions hitting home valuable life skills and Islamic guidance &inspiring community involvement.  	
-				
 * Life Skills/Planning Workshops				
 Alternating: Life skills, Islamic guidance, mentoring, college & career planning workshops, leadership/speech workshops		
 * ACT/SAT workshops
 
-<b>PASS also provides Karate for Kids</b>
+<b>Pillars Academy is also hosting Karate for Kids</b>
 
 * Preschool-Kindergarten
   Fridays 3:00pm-3:30pm
@@ -44,5 +42,4 @@ Alternating: Life skills, Islamic guidance, mentoring, college & career planning
   Fridays 3:30pm-4:15pm
   All levels Karate with Instructor Sensei Luis from United Studios of Self Defense; additional skills like nunchucks training available. Call Pillars Academy 949-951-0442 to sign up.
 
-<b>Piano available based on enough interest.</b>
 
