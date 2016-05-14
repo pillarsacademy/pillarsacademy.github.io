@@ -22,8 +22,6 @@
   banner: /templates/alridah/images/header/teachinglearning.jpg
   href:
   items:
-    - path: Curriculum
-      title: Curriculum
     - path: infants
       title: "Infants"
     - path: toddlers
@@ -34,6 +32,8 @@
       title: "Religious Studies"
     - path: leadership
       title: "Leadership Program"
+    - path: Themes
+      title: Themes
 - path: admission
   title: "Admission"
   banner: /templates/alridah/images/header/admission.jpg
