@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<a href="(https://cloud.githubusercontent.com/assets/11180395/15264905/0de96ee8-192e-11e6-8d9d-e308b3e52503.jpg">
+  <img width="680" src="(https://cloud.githubusercontent.com/assets/11180395/15264905/0de96ee8-192e-11e6-8d9d-e308b3e52503.jpg"/>
+
+<a href="https://cloud.githubusercontent.com/assets/11180395/15264902/fc67066c-192d-11e6-8450-a0fc84067480.jpg">
+  <img width="680" src="https://cloud.githubusercontent.com/assets/11180395/15264902/fc67066c-192d-11e6-8450-a0fc84067480.jpg"/>
+  
+
 
 # Preschool
 
