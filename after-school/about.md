@@ -6,6 +6,12 @@ layout: default
 We're approaching the end of our third trimester of PASS with friendships formed, and a lot of learning and fun accomplished! Please take this brief survey to help us create the schedule for next year's PASS tailored to YOUR needs! 
 </center></b>
 
+As of now, our PASS program runs parallel to the local public school districts' calendars, and does not continue through the summer because we have Summer Camp for all ages! Even teens 14-18 are engaged with our Counselor in Training program!
+
+Summer Camp is available for all ages and runs from 9:30am-2:30pm with After Care from 2:30pm-5:30pm (as well as before care). It's a lot of fun and creatively stimulates them both intellectually and physically, just like we do at PASS! It includes a field trip every week. 
+
+Come back to this page in June for the PASS 2016-17 Fall schedule!!
+
 <b>Pillars Academy now offers it's services and expert teachers to the community via an After School Program including:
 Academic Enrichment, Professional Tutoring & Homework Help, Arabic, Qur'an, fun Islamic Studies classes, and professional Sports Trainings like Girls Volleyball, Girls & Boys Basketball, and Girls & Boys Soccer!</b>
 
