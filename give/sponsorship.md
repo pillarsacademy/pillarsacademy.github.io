@@ -6,34 +6,39 @@ layout: default
 
 If you are a **Professional, Business, or Company** that would value being a recognized **Partner in Compassion**, there are a variety of rewarding ways to contribute!
 
-
-<center>Sponsor an Academic Scholarship- $3000  
+<center>
+<b>Sponsor an Academic Scholarship- $3000</b> 
 (10 Recurring Monthly Installments of $300)  
-*Your Name or Business/Company Logo will be displayed on:*  
-Academy Website- 10 Months  
+*Your Name or Business/Company Logo will be displayed on:*
+Academy Website- 10 Months
 Monthly Video Newsletter*- 10 months  
 Pillars' Compassion Bulletin Board in OCIF Masjid  
-2016 Annual Banquet Program & Display Materials</center>
+2016 Annual Banquet Program & Display Materials
+</center>
 
-
-<center>$1000 Sponsorship  
+<center>
+<b>$1000 Sponsorship</b>
 *Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 3 Months  
 Monthly Video Newsletter*- 3 months  
 Pillars’ Compassion Bulletin Board in OCIF Masjid</center>
 
 
-<center>$700 Sponsorship  
+<center>
+<b>$700 Sponsorship</b>  
 *Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 2 Months  
 Monthly Video Newsletter*- 2 months  
-Pillars’ Compassion Bulletin Board in OCIF Masjid</center> 
+Pillars’ Compassion Bulletin Board in OCIF Masjid
+</center> 
 
 
-<center>$500 Sponsorship  
+<center>
+<b>$500 Sponsorship</b>  
 *Your Name or Business/Company Logo will be displayed on:*  
 Academy Website- 2 Months  
-Pillars’ Compassion Bulletin Board in OCIF Masjid</center>
+Pillars’ Compassion Bulletin Board in OCIF Masjid
+</center>
 
 <center>*Your logo will be displayed as a sponsor at the end of our Monthly Video Newsletter. Our Video Newsletter is sent out via email, multiple social media outlets, and posted on Youtube. </center>
 
