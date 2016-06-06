@@ -78,11 +78,11 @@
   banner: /templates/alridah/images/header/newsandevents.jpg
   href:
   items:
-     - path: calendar
+    - path: calendar
       title: "Calendar"
     - path: videos
       title: "Videos & News"
-      - path: photos
+    - path: photos
       title: "Photos"
     - path: upcoming-events
       title: "Upcoming Events"
