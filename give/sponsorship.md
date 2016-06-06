@@ -7,8 +7,8 @@ layout: default
 If you are a **Professional, Business, or Company** that would value being a recognized **Partner in Compassion**, there are a variety of rewarding ways to contribute!
 
 <b>Sponsor an Academic Scholarship- $3000</b>
-
 (10 Recurring Monthly Installments of $300)  
+
 *Your Name or Business/Company Logo will be displayed on:*
 
 * Academy Website- 10 Months
