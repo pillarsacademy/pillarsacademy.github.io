@@ -2,7 +2,7 @@
 layout: default
 ---
 
- <center>Become a Partner in Compassion</center>
+<center>Become a Partner in Compassion</center>
 
 <center>If you are a **Professional, Business, or Company** that would value being a recognized **Partner in Compassion**, there are a variety of rewarding ways to contribute!</center>
 
