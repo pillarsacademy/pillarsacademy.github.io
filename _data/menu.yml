@@ -23,15 +23,15 @@
   href:
   items:
     - path: infants
-      title: "Infants"
-    - path: toddlers
-      title: "Toddler Program"
+      title: "Infants & Toddlers"
     - path: preschool
       title: "Preschool"
+    - path: toddlers
+      title: "Kindergarten"
     - path: religious-studies
       title: "Religious Studies"
     - path: leadership
-      title: "Leadership Program"
+      title: "Leadership"
     - path: Themes
       title: Themes
 - path: admission
@@ -78,14 +78,14 @@
   banner: /templates/alridah/images/header/newsandevents.jpg
   href:
   items:
-    - path: photos
-      title: "Photos"
+     - path: calendar
+      title: "Calendar"
     - path: videos
       title: "Videos & News"
+      - path: photos
+      title: "Photos"
     - path: upcoming-events
       title: "Upcoming Events"
-    - path: calendar
-      title: "Calendar"
 - path: summer-camp
   title: "Summer Camp"
   banner: /templates/alridah/images/header/asummer.jpg
