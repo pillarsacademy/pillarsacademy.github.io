@@ -6,9 +6,11 @@ layout: default
 
 If you are a **Professional, Business, or Company** that would value being a recognized **Partner in Compassion**, there are a variety of rewarding ways to contribute!
 
-<b>Sponsor an Academic Scholarship- $3000</b> 
+<b>Sponsor an Academic Scholarship- $3000</b>
+
 (10 Recurring Monthly Installments of $300)  
 *Your Name or Business/Company Logo will be displayed on:*
+
 * Academy Website- 10 Months
 * Monthly Video Newsletter*- 10 months  
 * Pillars' Compassion Bulletin Board in OCIF Masjid  
@@ -16,26 +18,32 @@ If you are a **Professional, Business, or Company** that would value being a rec
 
 <center>
 <b>$1000 Sponsorship</b>
-*Your Name or Business/Company Logo will be displayed on:*  
+
+*Your Name or Business/Company Logo will be displayed on:*
+
 * Academy Website- 3 Months  
 * Monthly Video Newsletter*- 3 months  
 * Pillars’ Compassion Bulletin Board in OCIF Masjid</center>
 
 <b>$700 Sponsorship</b>  
+
 *Your Name or Business/Company Logo will be displayed on:*  
+
 * Academy Website- 2 Months  
 * Monthly Video Newsletter*- 2 months  
 * Pillars’ Compassion Bulletin Board in OCIF Masjid
 
 
 <b>$500 Sponsorship</b>  
+
 *Your Name or Business/Company Logo will be displayed on:*  
+
 * Academy Website- 2 Months  
 * Pillars’ Compassion Bulletin Board in OCIF Masjid
 
 *Your logo will be displayed as a sponsor at the end of our Monthly Video Newsletter. Our Video Newsletter is sent out via email, multiple social media outlets, and posted on Youtube.
 
-Sponsorship via Donations of Any Amount or Donations of Products or Services
+<b>Sponsorship via Donations of Any Amount or Donations of Products or Services</b>
 
 These would also be greatly appreciated and recognized! We can talk further and determine how you can Partner in Compassion and benefit the school & its students with your valued Products or Services.  
 **As we are under a 501c3, your Generous Donations are TAX-DEDUCTIBLE.**  
