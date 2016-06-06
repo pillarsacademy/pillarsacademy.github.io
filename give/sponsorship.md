@@ -16,7 +16,6 @@ If you are a **Professional, Business, or Company** that would value being a rec
 * Pillars' Compassion Bulletin Board in OCIF Masjid  
 * 2016 Annual Banquet Program & Display Materials
 
-<center>
 <b>$1000 Sponsorship</b>
 
 *Your Name or Business/Company Logo will be displayed on:*
