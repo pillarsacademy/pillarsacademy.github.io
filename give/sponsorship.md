@@ -51,7 +51,8 @@ These would also be greatly appreciated and recognized! We can talk further and 
 Ahlam Moughania, Director of Pillars Academy
 
 
-[Make your contribution today] (http://www.pillarsacademy.org/give/donate/) and note your contact number and email for follow up or reach out to our Marketing/Outreach coordinator, Mona Ebrahim for more information!  949-951-0442 x107 or email <mona.ebrahim@pillarsacademy.org>
+[Make your contribution today](http://www.pillarsacademy.org/give/donate/) and note your contact number and email for follow up 
+or reach out to our Marketing/Outreach coordinator, [Mona Ebrahim](mona.ebrahim@pillarsacademy.org) for more information!  949-951-0442 x107 
 
 What it means to be a Sponsoring Partner in Compassion
 
