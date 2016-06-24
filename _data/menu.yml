@@ -1,6 +1,6 @@
 - path: about
   title: "About"
-  banner: /templates/alridah/images/header/missionvision.jpg
+  banner: /templates/alridah/images/header/admission.jpg
   href:
   items:
     - path: mission
@@ -19,7 +19,7 @@
       title: "FAQs"
 - path: learning
   title: "Education"
-  banner: /templates/alridah/images/header/teachinglearning.jpg
+  banner: /templates/alridah/images/header/admission.jpg
   href:
   items:
     - path: infants
@@ -95,7 +95,7 @@
       title: "About"
 - path: weekend-school
   title: "Weekend School"
-  banner: /templates/alridah/images/header/weekendschool.jpg
+  banner: /templates/alridah/images/header/admission.jpg
   href:
   items:
     - path: about
@@ -106,7 +106,7 @@
       title: "Registration"
 - path: after-school
   title: "Community After School Program"
-  banner: /templates/alridah/images/header/weekendschool.jpg
+  banner: /templates/alridah/images/header/admission.jpg
   href:
   items:
     - path: about
