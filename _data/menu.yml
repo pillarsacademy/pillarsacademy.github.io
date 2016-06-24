@@ -19,7 +19,7 @@
       title: "FAQs"
 - path: learning
   title: "Education"
-  banner: /templates/alridah/images/header/Toddlers.jpg
+  banner: /templates/alridah/images/header/Teacherslearning.jpg
   href:
   items:
     - path: infants
