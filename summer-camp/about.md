@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<center><b>Register Online for the Summer Camp that has it all!</b>
+<center><b>Register Online for the Summer Camp that has it all! Pillars Summer Camp is faith-based, yet open to people of all religions and backgrounds! Registration is open and on-going!!</b>
 <link rel="stylesheet" type="text/css" media="all" href="https://emarketing.activenetwork.com/res/button/css/button-v4.css" /><table><tbody><tr><td><div id="btn_div" class="btn-g201-blue1btn"><ul><li><a id="btn_lnk" href="https://campscui.active.com/orgs/PillarsAcademy" target="_blank"><span id="btn_txt">Register Now!</span></a></li></ul></div></td></tr><tr><td nowrap=""><div id="btn_foot">by <a href="http://www.activenetwork.com" target="_blank" title="Online Registration, Marketing and Event Management Software">ACTIVE Network</a></div></td></tr></tbody></table>
 </center>
 <a href="https://cloud.githubusercontent.com/assets/11180395/16093914/ae9e6450-32f2-11e6-842e-4905910d270d.jpg">
