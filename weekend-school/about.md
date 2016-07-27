@@ -3,7 +3,7 @@ layout: default
 ---
 
 <a href="https://cloud.githubusercontent.com/assets/11180395/17195830/28c31cd8-5415-11e6-9628-c0400555d46a.png">
-  <img width="300" src="https://cloud.githubusercontent.com/assets/11180395/17195830/28c31cd8-5415-11e6-9628-c0400555d46a.png" />
+  <img width="600" src="https://cloud.githubusercontent.com/assets/11180395/17195830/28c31cd8-5415-11e6-9628-c0400555d46a.png" />
 </a>
 
 #### About
@@ -31,6 +31,4 @@ The program is administered by a team of well-qualified/experienced teachers and
 
 If you have any questions or would like to register your children for weekend school, please contact the OCIF Administration Office by Tel (949) 595-0480, email at weekendschool@pillarsacademy.org, or in person between 8 am to 3 pm Mon thru Friday, 9:30 am to 2:00 pm on Saturdays and Sundays.
 
-<a href="https://cloud.githubusercontent.com/assets/11180395/9561233/d8e28444-4df1-11e5-8db7-890e1ea28528.jpg">
-  <img width="600" src="https://cloud.githubusercontent.com/assets/11180395/9561233/d8e28444-4df1-11e5-8db7-890e1ea28528.jpg"/>
-</a>
+
