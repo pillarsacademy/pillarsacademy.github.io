@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<a href="https://cloud.githubusercontent.com/assets/11180395/8606204/0398ea6e-263f-11e5-8a85-3e8e129a4bd1.jpg">
-  <img width="300" src="https://cloud.githubusercontent.com/assets/11180395/8606204/0398ea6e-263f-11e5-8a85-3e8e129a4bd1.jpg" />
+<a href="https://cloud.githubusercontent.com/assets/11180395/17195830/28c31cd8-5415-11e6-9628-c0400555d46a.png">
+  <img width="300" src="https://cloud.githubusercontent.com/assets/11180395/17195830/28c31cd8-5415-11e6-9628-c0400555d46a.png" />
 </a>
 
 #### About
