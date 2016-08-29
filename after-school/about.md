@@ -3,17 +3,16 @@ layout: default
 ---
 <center>
 <b>PASS (Pillars After School Supplements) Community After School Program</b>
-Welcome to Pillars After School Supplements! There are numerous educational solutions housed in OCIF in addition to Pillars Academy full time school for KG and under and Quest Prep Academy full time indeoendent school for 1st-5th grade.
 
-PASS is an after school program where students can come and learn and form friendships after school 3 days out of the week. Other options are the Friday Qur'an program and Pillars Academy Weekend School on Saturday or Sunday.
-</center></b>
+Welcome to Pillars After School Supplements! There are numerous educational solutions housed in OCIF in addition to Pillars Academy (full time school for infants - KG) and Quest Prep Academy (full time independent school for 1st-5th grade).
 
-As of now, our PASS program runs parallel to the local public school districts' calendars, and does not continue through the summer as we have Summer Camp for all ages! 
+PASS is a community after school program where students can come and learn and form friendships after school 3 days out of the week. 
 
-<b>Pillars Academy now offers it's services and expert teachers to the community via an After School Program including:
-Academic Enrichment, Professional Tutoring & Homework Help, Arabic, Qur'an, fun Islamic Studies classes, and professional Sports Trainings!</b>
+Other options are the Friday Qur'an program and Pillars Academy Weekend School on Saturday or Sunday.
 
-Fall schedule:
+PASS program runs parallel to the local public school districts' calendars with similar holidays including 3 and 4 day weekends, leaving the best time for continuous learning as Tuesday, Wednesday, & Thursday.
+
+Fall 2016-17 schedule:
 Tuesdays/Wednesdays/Thursdays 3:30-5:30pm Qur'an (Memorization & Recitation), Arabic, and Islamic Studies.
 More class options like piano, tutoring, arts, & sports will be added based on interest in October 2016.
 
