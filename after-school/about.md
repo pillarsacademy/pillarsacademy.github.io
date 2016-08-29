@@ -29,14 +29,6 @@ $185/month for one child, $175 for each sibling (when full term is purchased or 
 or at OCIF. Call 949-595-0480, or for further information or email pass@pillarsacademy.org!</b>
 
 
-<a href="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg">
-  <img width="680" src="https://cloud.githubusercontent.com/assets/11180395/13907716/024fd492-eeb2-11e5-90b6-b718e60f47f2.jpg"/>
-  
-<a href="https://cloud.githubusercontent.com/assets/11180395/13907739/6833671a-eeb2-11e5-8f69-c1abca5a81a8.jpg">
-  <img width="680" src="https://cloud.githubusercontent.com/assets/11180395/13907739/6833671a-eeb2-11e5-8f69-c1abca5a81a8.jpg"/>
-</a>
-
-
 <b>Coming soon for High School:</b>
 * Game Changers- Islamic Studies/Life Skills/Mentor				
 Mentor leads discussions hitting home valuable life skills and Islamic guidance &inspiring community involvement.  	
