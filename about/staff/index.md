@@ -3,10 +3,7 @@ layout: default
 ---
 <b>Meet Pillars Academy's fine staff...</b>
 
-
-<b>PILLARS ACADEMY PRESCHOOL</b>
-
-<b>Preschool Director:</b> [Zubeda Kazi](./ZK)
+<b>Director:</b> [Zubeda Kazi](./ZK)
 
 <b>Toddler Class</b>
 
@@ -25,33 +22,16 @@ layout: default
 * Lead (Core Subjects): [Niran Ibrahim](./NI)
 * Assistant: [Faeiza Hadi](./FH)
 * Arabic: [Bushra Assaf](./BA)
-* Qur'an/Islamic Studies: [Salwa Ziadeh](./SZ)
+* Qur'an/Islamic Studies:[Amani Chalati](./AC)
 
 <b>Transitional Kindergarten/Kindergarten</b>
 
-* Language Arts/Social Science: [Hilary Levine](./HI)
-* Math/Science: [Farrah Yasmin](./FY)
+* Core Curriculum: [Anna Norris](./AN)
 * Islamic Studies/Arabic/Qur'an: [Amani Chalati](./AC)
-
-<b>PILLARS ACADEMY ELEMENTARY</b>
-
-<b>Curriculum Coordinator:</b> [Anna Norris](./AN)
-
-<b>First Grade</b>
-
-* Lead (Core Subjects): [Megan Webb](./MW)
-* Islamic Studies/Arabic/Qur'an: [Amani Chalati](./AC)
-
-<b>2nd/3rd Grade</b> 
-
-* Lead (Core Subjects): [Anna Norris](./AN)
-* Qur'an/Islamic Studies: [Salwa Ziadeh](./SZ)
-* Arabic: [Assil Al Sharifi](./AA)
 
 <b><u>Administrative Staff</u></b>
 
-* Supervisor: [Zubeda Kazi](./ZK)
-* Office: [Maimuna Shurbaji](./MS)
-* Accounting: [Issra Al Safi](./IA)
-* Communications: [Mona Ebrahim](./ME)
+* Director: [Zubeda Kazi](./ZK)
+* Office Manager: [Maimuna Shurbaji](./MS)
+
 
