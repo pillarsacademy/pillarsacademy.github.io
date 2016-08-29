@@ -7,6 +7,8 @@ layout: default
 <a href="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg">
   <img width="100" src="https://cloud.githubusercontent.com/assets/11180395/13753657/114ff14c-e9d1-11e5-81cd-3cdcd1f910f6.jpg" />
 </a>
+
+
 It is with immense excitement that I welcome you with greetings of peace to our website. Pillars Academy is the hidden jewel in Mission Viejo, California that provides Islamic education and core academics within a loving and nurturing environment. As our mission states:
 
 *Pillars Academy is a private Islamic school established by the Orange County Islamic Foundation in 2000, which provides a holistic approach to education. We address the spiritual, academic, social, and emotional needs of a child. Our students belong to a community of faith, including parents and teachers, which strengthens their identity as Muslims. Students are encouraged to be leaders striving to improve themselves, their families, their communities, and their environment.*
