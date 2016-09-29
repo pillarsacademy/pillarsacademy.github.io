@@ -56,8 +56,8 @@
   items:
     - path: parent-handbook
       title: "Parent Handbook"
-    - path: Supplies
-      title: "Supply List"
+    - path: TuitionPay
+      title: "Tuition Payment"
     - path: ptc
       title: "PTC Corner"
     - path: after-school
