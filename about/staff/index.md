@@ -14,8 +14,7 @@ layout: default
 <b>Preschool Class</b>
 
 * Lead (Core Subjects): [Soheila Behzadnieh](./SB)
-* Arabic & Assistant: [Bushra Assaf](./BA)
-* Qur'an/Islamic Studies: [Faeiza Hadi](./FH)
+* Arabi,Qur'an/Islamic Studies: [Faeiza Hadi](./FH)
 
 <b>Pre-Kindergarten</b> 
 
