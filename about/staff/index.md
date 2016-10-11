@@ -19,9 +19,7 @@ layout: default
 <b>Pre-Kindergarten</b> 
 
 * Lead (Core Subjects): [Niran Ibrahim](./NI)
-* Assistant: [Faeiza Hadi](./FH)
-* Arabic: [Bushra Assaf](./BA)
-* Qur'an/Islamic Studies:[Amani Chalati](./AC)
+* Arabic, Qur'an/Islamic Studies:[Amani Chalati](./AC)
 
 <b>Transitional Kindergarten/Kindergarten</b>
 
