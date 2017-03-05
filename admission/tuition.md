@@ -4,4 +4,6 @@ layout: default
 
 # Annual Tuition
 
-<img src="https://cloud.githubusercontent.com/assets/11180395/18050048/ef87f89e-6da0-11e6-9cd8-43125ccd9e84.jpg" width="600" height="776" />
+<p><a href="http://www.pillarsacademy.org/images/2016-2017TuitionSheet.pdf"><img src="http://www.pillarsacademy.org/images/2016-2017Tuition.png" width="600" height="776" /></a></p>
+
+<p><a href="http://www.pillarsacademy.org/images/2017-2018TuitionSheet.pdf"><img src="http://www.pillarsacademy.org/images/2017-2018Tuition.png" width="600" height="776" /></a></p>
